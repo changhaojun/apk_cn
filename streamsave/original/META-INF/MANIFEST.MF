@@ -1,0 +1,4218 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.0.0
+
+Name: assets/www/svg/logo-reddit.svg
+SHA1-Digest: a/4oaVXEGiilk4UuGRKezyMtUVQ=
+
+Name: assets/www/svg/md-brush.svg
+SHA1-Digest: 4gXbLVTGOSprYBsxRl4Wm3XtAEA=
+
+Name: assets/www/81.js.map
+SHA1-Digest: PeLtfiS10eTexzNRgSUBzz1+pT4=
+
+Name: assets/www/cordova.b8b05ba265b9ff1d69c8.js
+SHA1-Digest: +XcFSL9HpdeP01AtMHYVV9hzgiw=
+
+Name: assets/www/assets/icon/shower_down.svg
+SHA1-Digest: bb8ti2IdpYxyFEMQhvRUMC/hfmg=
+
+Name: assets/www/svg/md-star-outline.svg
+SHA1-Digest: LfUN6TbdG50j4679ltvi7y3QQNU=
+
+Name: assets/www/svg/md-cube.svg
+SHA1-Digest: 36PhpYmNLYd1ZEkE5vRioPapZKo=
+
+Name: assets/www/styles.js.map
+SHA1-Digest: 6vR3WwNt0H3W6xmOOHYgLyH0WKk=
+
+Name: assets/www/33.afb31a552a6718800979.js
+SHA1-Digest: DkY935dyFm2FeRpegIe5OBwS5JE=
+
+Name: assets/www/svg/logo-xbox.svg
+SHA1-Digest: 5dFXyBNr7SH2gIsnGT7HYD/qPf4=
+
+Name: assets/www/svg/logo-bitbucket.svg
+SHA1-Digest: hSK4B5FjqAkfQweYM+2CW2YyoUk=
+
+Name: assets/www/svg/md-male.svg
+SHA1-Digest: B9n0zYxEYzsbAdVdwkuvYrwlUPs=
+
+Name: assets/www/34.5f3cf247f53102f2ddd0.js
+SHA1-Digest: eoXbVAKaaJTcmG0ttP17YkSalpM=
+
+Name: assets/www/89.js.map
+SHA1-Digest: MVXnoxUYDoojns+J97R/mYH0P58=
+
+Name: assets/www/svg/ios-share.svg
+SHA1-Digest: 1D9kj8pH1zBsvBToxCVBFTagcsA=
+
+Name: assets/www/svg/md-arrow-dropup-circle.svg
+SHA1-Digest: Sz8SoOfKQBVMfZmY+qi0haoDLRs=
+
+Name: assets/www/47.js
+SHA1-Digest: LFcfOt5MNk1JOo85FzwEDd544XQ=
+
+Name: assets/www/svg/md-list-box.svg
+SHA1-Digest: UyZ8pxtHpIRJoCzgho9xG76YePg=
+
+Name: assets/www/svg/md-bluetooth.svg
+SHA1-Digest: 329f+CnyGGzVSSQcfDAQyuw4P+w=
+
+Name: assets/www/svg/ios-map.svg
+SHA1-Digest: ymUw1H3PDZjR4gtSfQHKBMy/aYY=
+
+Name: assets/www/svg/md-water.svg
+SHA1-Digest: ao20sMDb60jV0s8dCjLAvM967SA=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/lib/underscore-
+ min-1.6.js
+SHA1-Digest: fTCaAdtEicUTafi9nrI8mrvovG0=
+
+Name: assets/www/svg/md-radio-button-off.svg
+SHA1-Digest: Dlk/ZlXxlcbcaNnadOqlDev0aUI=
+
+Name: assets/www/153.js.map
+SHA1-Digest: DrKxgGI2JTXyvxGGrRO2u7km5/o=
+
+Name: assets/www/svg/md-contact.svg
+SHA1-Digest: qVaWdV9da1C/XHOojouFnJFM0sc=
+
+Name: assets/www/svg/md-woman.svg
+SHA1-Digest: Wu4L21BgoT+QCeGEZvwRpTWRANI=
+
+Name: assets/www/134.ace183a59a729ca46791.js
+SHA1-Digest: dH9IjdHmP3rnbAEInt9UmHcl6Bc=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: 3nQv26DpbcsSqIlvqETYajoTqEY=
+
+Name: assets/www/svg/logo-whatsapp.svg
+SHA1-Digest: CphwlItDvapJC+Q4FTjIPCMGm4I=
+
+Name: assets/www/94.js
+SHA1-Digest: +nRd70/ckPZtMtyigP/1Y3bHrJw=
+
+Name: assets/www/svg/ios-basket.svg
+SHA1-Digest: KLgps2E3QQCawdCFcywDfK1sMog=
+
+Name: assets/www/182.11be61fefd9baaf34272.js
+SHA1-Digest: ig3vDkAvwCJ+BMZlRvFUkFooEtA=
+
+Name: assets/www/svg/ios-megaphone.svg
+SHA1-Digest: y6uqZOVMrfVytD6SbVMDaxY1JV4=
+
+Name: assets/www/35.js
+SHA1-Digest: eP0rD1UfuXFhabgGbr+rnghuWYI=
+
+Name: assets/www/svg/md-attach.svg
+SHA1-Digest: gsvU9D1aQk9lhFjisnK4dmtWs+M=
+
+Name: assets/www/svg/ios-star-outline.svg
+SHA1-Digest: PpTcE2SpjZqJQOJvX/t2bZ1YC4o=
+
+Name: assets/www/svg/ios-film.svg
+SHA1-Digest: 3H/rQt2PQUiXQ01x/Cmnye/Zaj8=
+
+Name: assets/www/48.js.map
+SHA1-Digest: XWEtZH1hMe/sFWZgbibLKMP1Gsc=
+
+Name: assets/www/104.js
+SHA1-Digest: JSZLBCEqD81kV9x1KPCl9DqeDRQ=
+
+Name: assets/www/40.js.map
+SHA1-Digest: MzuNyEGzmPMAAbHjT3c24ijgXZI=
+
+Name: assets/www/72.3ad7f98865b9c2e187e3.js
+SHA1-Digest: o0O/llqNyLm9/jVVMGmOfZRG6oM=
+
+Name: assets/www/70.js.map
+SHA1-Digest: yrbiLiajvUW3UFZyLzOBSzx/87U=
+
+Name: assets/www/svg/md-share.svg
+SHA1-Digest: c6sa0QJuSuJPNt6fdfJyqOjx1xU=
+
+Name: assets/www/37.js.map
+SHA1-Digest: 1/n8ZdpM0nT9tbQSMfEjw/IbHCw=
+
+Name: assets/www/140.9b69b19b5775f4d673e6.js
+SHA1-Digest: zLYreA4hJJIbpDgfVmjOvgk990Q=
+
+Name: assets/www/svg/ios-phone-portrait.svg
+SHA1-Digest: 0H4/B4+ov73Th8OeTO21wwOop5o=
+
+Name: assets/www/svg/md-fitness.svg
+SHA1-Digest: 5D/dwDkLQIktqZrBdnJjjuoC5Dk=
+
+Name: assets/www/svg/md-leaf.svg
+SHA1-Digest: YAnUsv2vOGlnHsyTWPHkx5SPY6g=
+
+Name: assets/www/100.8ac735d5fb5463c68d57.js
+SHA1-Digest: DDY7WevhD3ZS6ns5JVXOzKzPaMQ=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: FVwW8q5pXNyqdiSUoAgfev5NTHs=
+
+Name: assets/www/svg/md-battery-full.svg
+SHA1-Digest: uBRa1uT3GER0t7oy3vZ1WE1VrlI=
+
+Name: assets/www/svg/md-help-buoy.svg
+SHA1-Digest: QiwPnmg9OSfdpVfFDBHGqDt6TiI=
+
+Name: assets/www/svg/ios-snow.svg
+SHA1-Digest: wOI1yDpViYTzqI2gLFqX6FgtBfM=
+
+Name: assets/www/svg/logo-wordpress.svg
+SHA1-Digest: zb+xC/SEbzG8R94op5ePdLmgpjM=
+
+Name: assets/www/78.js.map
+SHA1-Digest: tq3UQ3aWazP5ctHnKN/ITnlRtTA=
+
+Name: assets/www/22.ae0032e42524b79ec261.js
+SHA1-Digest: ydzcfc59iGfutZzWcI0+eQ944aQ=
+
+Name: assets/www/59.js
+SHA1-Digest: r919cEp1Hho/MRkybqKCQLQkf7A=
+
+Name: assets/www/svg/logo-dribbble.svg
+SHA1-Digest: QX6ujiUsUVhmj5GJqIh2Va763A8=
+
+Name: assets/www/svg/ios-brush.svg
+SHA1-Digest: V+uxUs3Te88tF/GOhq8okaI/Y3g=
+
+Name: assets/www/svg/logo-ionic.svg
+SHA1-Digest: Ze1QqZV4HnWiGKXY0ym/uV383IA=
+
+Name: assets/www/92.js.map
+SHA1-Digest: CuTuyI4bwWtL2RqptNFPZg2IR20=
+
+Name: assets/www/60.js
+SHA1-Digest: HzKpYAAeUUR/Cp0tm2j8xGfBXUs=
+
+Name: assets/www/svg/ios-open.svg
+SHA1-Digest: b33UtV/5Q/bl3S4xwR0dz+WLF/g=
+
+Name: assets/www/126.js
+SHA1-Digest: tQaR3HuKHMAeRdvHUEQnJeob37Q=
+
+Name: assets/www/svg/ios-images.svg
+SHA1-Digest: 8WkfTPeJ6iP7TFbLq3WFM14po70=
+
+Name: assets/www/13.2deb59e25dbd89e22f7b.js
+SHA1-Digest: KNJf7lK+oaZ8AShuRyA5qgr+exc=
+
+Name: assets/www/svg/md-create.svg
+SHA1-Digest: f3cU05do6IRnJCOJDtrdLvf9yG8=
+
+Name: assets/www/svg/md-contrast.svg
+SHA1-Digest: bpCBcVcHIrtHV0t78RBpjL80q94=
+
+Name: assets/www/svg/ios-heart-empty.svg
+SHA1-Digest: 3VxJvKI35HwrWfCCr50D+C6DIiA=
+
+Name: assets/www/13.342236168695f4722aac.js
+SHA1-Digest: mX16U9Qgrko+zDerS1yfmihSN2A=
+
+Name: assets/www/svg/md-ribbon.svg
+SHA1-Digest: F/6kSl8GmrJ94Q4LFMgYiWClfI4=
+
+Name: assets/www/151.js
+SHA1-Digest: 0ia77T8pk1llu7cR5zsaYDL6beo=
+
+Name: assets/www/plugins/cordova-plugin-ionic-webview/src/www/util.js
+SHA1-Digest: oItJ1J1tn6Oo82/WVzOJacSm+mU=
+
+Name: assets/www/5.js
+SHA1-Digest: h4LPdc4OhNEwE+RVkwNZ57U2St4=
+
+Name: assets/www/svg/md-card.svg
+SHA1-Digest: c1WPCaE9Y9wNOkgx9vnkfNg7iiA=
+
+Name: assets/www/svg/md-git-branch.svg
+SHA1-Digest: Ikws7Qd6tyasAekmF3YHYvAGyuI=
+
+Name: assets/www/svg/ios-refresh.svg
+SHA1-Digest: sdBsle1mBTyDjNshDgbPd1ym1Rk=
+
+Name: assets/www/13.2a50d3913938fcf483ae.js
+SHA1-Digest: bJXsCEpB8XfuWjgi1Os28k2kqD4=
+
+Name: assets/www/svg/ios-close.svg
+SHA1-Digest: i9R8ogVqC2hmepT9GQwm2I32wY8=
+
+Name: assets/www/82.js
+SHA1-Digest: BnxwMzyKC7lgma1zn5MrXsjtCW4=
+
+Name: assets/www/svg/md-download.svg
+SHA1-Digest: 1Lr777EO2I6mn8HuL21AQQQep9c=
+
+Name: assets/www/23.js
+SHA1-Digest: mVjipmkltkI0j+fpUb09Dk/ML28=
+
+Name: assets/www/svg/ios-log-in.svg
+SHA1-Digest: JajYbNwY3yITT7k8If7wavH0D1Q=
+
+Name: assets/www/68.11a986dfc49caf6ebd75.js
+SHA1-Digest: LNIYMitGkowcqO2DU3yCJfQTVdU=
+
+Name: assets/www/svg/ios-pricetag.svg
+SHA1-Digest: MyV6uIPc6C8yRybd4wS1XD/yZQ8=
+
+Name: assets/www/176.b897a9145d104f4c3968.js
+SHA1-Digest: oI1ayVIwwE03GzY5Qm5V5PaD2G0=
+
+Name: assets/www/svg/md-battery-dead.svg
+SHA1-Digest: dTncMfyQe1DIGTkJ5BvAgvnlz8Y=
+
+Name: assets/www/120.fdfe49a8d0d627c0e900.js
+SHA1-Digest: YLp7XZTNvjz8tHb47yMbUJMTAsA=
+
+Name: assets/www/57.js
+SHA1-Digest: mizHAUo43E4p7ZDQbOVG3ApteSQ=
+
+Name: assets/www/svg/md-unlock.svg
+SHA1-Digest: +wWzMAb6SsqyL3HVkDVeCvygV4M=
+
+Name: assets/www/101.d44340e8d44ebb9e0a9e.js
+SHA1-Digest: iXsb+0u/L5T4IjZ+ZtBB6H4pqIs=
+
+Name: assets/www/89.5788a2c7153811491958.js
+SHA1-Digest: Km/QbCSSK/aGGZhyFMW7HlIxePE=
+
+Name: assets/www/svg/ios-cut.svg
+SHA1-Digest: xMqlhaf6EFEk9TAdBdZpsm5ZyHQ=
+
+Name: assets/www/svg/md-calculator.svg
+SHA1-Digest: 0EvMl1FC3+A3wRQAtgTySLJJmpQ=
+
+Name: assets/www/svg/ios-cloud-outline.svg
+SHA1-Digest: CNlsvo4L4yitg4w02yKz54flyos=
+
+Name: assets/www/18.4820af4191c14da14012.js
+SHA1-Digest: diIZw8xUDSMGyilOupf25ULj+nI=
+
+Name: assets/www/svg/md-git-network.svg
+SHA1-Digest: yByxv2yOgJJ5HGx0VPkH8lJ7+1k=
+
+Name: assets/www/svg/md-settings.svg
+SHA1-Digest: APNq87TX2FmAdbG8J0B1etYOq3Y=
+
+Name: assets/www/163.a3efbd7671cb49361120.js
+SHA1-Digest: dbeE2M2hAsLG65CJbGN35fS/UNs=
+
+Name: assets/www/128.js
+SHA1-Digest: KaWhZrMIIJy9GO5/eLCqpzEJggg=
+
+Name: assets/www/svg/md-arrow-dropright-circle.svg
+SHA1-Digest: vsiiPT/4lyvH0UTkFkmYOkld2fk=
+
+Name: assets/www/svg/md-paper-plane.svg
+SHA1-Digest: bliDBQtzgSjatcr8JmiS/s0OPSU=
+
+Name: assets/www/svg/md-watch.svg
+SHA1-Digest: kEQZgfEMS+5uJK75KV5+9f25xDk=
+
+Name: assets/www/6.js.map
+SHA1-Digest: GgZYuMp7IkMJtnhV/MCdyGjc7DQ=
+
+Name: assets/www/svg/ios-construct.svg
+SHA1-Digest: Z70wmofJtxTDVR620av8tyWVIfM=
+
+Name: assets/www/svg/ios-download.svg
+SHA1-Digest: LyhX5gSjHUbMF+DNnEJ3bMB3y5Y=
+
+Name: assets/www/svg/ios-cloud-download.svg
+SHA1-Digest: aJNUJ1sbpNihLw2/Mr6qAXekeEs=
+
+Name: assets/www/svg/md-compass.svg
+SHA1-Digest: hj0cQqAqx24TBqWJDR0+BdRsLQ8=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: WY63KRIwUfBJT7ADJajHaAGlUMA=
+
+Name: assets/www/svg/md-code.svg
+SHA1-Digest: w4UakZeLWRj0lBtcVRPbETf0KEI=
+
+Name: assets/www/svg/md-today.svg
+SHA1-Digest: HB9rmLn0wK3xrwJEUx+IdsBl3QM=
+
+Name: assets/www/svg/ios-bowtie.svg
+SHA1-Digest: 0JWdo2cwCi1uOHlQjvOc/xy2T3M=
+
+Name: assets/www/svg/md-expand.svg
+SHA1-Digest: vzIwIgPfiZVZdABsZy3UC+Dt7Bs=
+
+Name: assets/www/svg/md-radio-button-on.svg
+SHA1-Digest: ZpVGj/ga71wRWiZ8aV2les8S3U0=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA1-Digest: T1fi77uDkC05WlyQ8vFQmMm+YIY=
+
+Name: assets/www/svg/ios-cellular.svg
+SHA1-Digest: UJItkuJxFxeOvFUqul3Wz69Tdgs=
+
+Name: assets/www/svg/ios-done-all.svg
+SHA1-Digest: Snmm6RSQEqf0rqVfZhNmyCG68wM=
+
+Name: assets/www/svg/ios-mail-unread.svg
+SHA1-Digest: P4SlM+G+sqRnfg6ay94fCUGFi18=
+
+Name: assets/www/7.js
+SHA1-Digest: 8pEs46ZuKbn2ughZ/0eXG6IexfM=
+
+Name: assets/www/25.js
+SHA1-Digest: 8ebJlQ9HbkmiUTKyQvkWzBQ2kpU=
+
+Name: assets/www/svg/md-contacts.svg
+SHA1-Digest: eWx7M4kDTii1p/GuvoDaeABmbr4=
+
+Name: assets/www/70.js
+SHA1-Digest: mEjpduxCQGrLV7LBa56OTVciScs=
+
+Name: assets/www/svg/md-apps.svg
+SHA1-Digest: Tj+hBWaN5I8bTWvY3CUAnOeEwso=
+
+Name: assets/www/116.js
+SHA1-Digest: N/5yc+puf8sbLp+8+veYgt0+lPg=
+
+Name: assets/www/13.js
+SHA1-Digest: Oq43A6MptUakjOO29HOjBkxsRPw=
+
+Name: assets/www/149.87f158aafaa7eb145f60.js
+SHA1-Digest: lg7h3DUDjvfsvMJf5pr1KM8fxNo=
+
+Name: assets/www/svg/ios-close-circle-outline.svg
+SHA1-Digest: 1VUH2DXumhKQQpo29SpzJ5DZP1w=
+
+Name: assets/www/113.2141b8c1b4fe3b5eeefb.js
+SHA1-Digest: YYFuWq2G3ckn7bHzpV/olFaYlXw=
+
+Name: assets/www/66.805c75b60f1eb49b882d.js
+SHA1-Digest: AIevFaOmCMlW4OUww8p2BwXCiPw=
+
+Name: assets/www/svg/md-git-merge.svg
+SHA1-Digest: al2T5Nzv4MJ7KU34hocYwILp0L8=
+
+Name: assets/www/svg/md-link.svg
+SHA1-Digest: u66rELBslNoaq1pYm22gfoioRTE=
+
+Name: assets/www/13.76345092508d15cabc2a.js
+SHA1-Digest: ZdS8MMNgRhs+57B3ZAYYU4KHJNE=
+
+Name: assets/www/161.js
+SHA1-Digest: +lpkCcXL9/mQnuGoH9cLhZKF//I=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/Delegate.js
+SHA1-Digest: u3xB2TF3M6YScqQ05cj8J+c2aHw=
+
+Name: assets/www/plugins/cordova-sqlite-storage/www/SQLitePlugin.js
+SHA1-Digest: BwXJGmF2i+jfVe0Sy7yWjLtqFIE=
+
+Name: assets/www/svg/ios-locate.svg
+SHA1-Digest: 4CEtzmusfN5zpvt9ztqL7vaQoFw=
+
+Name: assets/www/svg/md-body.svg
+SHA1-Digest: cUtmkrhH9gm0K6295M4ZVxq/SdI=
+
+Name: assets/www/svg/md-code-download.svg
+SHA1-Digest: KEVkUq94ZHhV10da1Ps2eZlc5cs=
+
+Name: assets/www/svg/md-shuffle.svg
+SHA1-Digest: mb3KTj52PJ2aRBvxZAgN2UQm2ME=
+
+Name: assets/www/svg/md-sad.svg
+SHA1-Digest: LO8wObkBJpjUYhExU+y1qDUhVi0=
+
+Name: assets/www/svg/ios-analytics.svg
+SHA1-Digest: fcy9VKM/ZO6fONJ5sDs0DU0qSVQ=
+
+Name: assets/www/138.js
+SHA1-Digest: hBYDjbRz4GQGY6gTcm8cd1nMu9M=
+
+Name: assets/www/plugins/cordova-plugin-nativestorage/www/NativeStorag
+ eError.js
+SHA1-Digest: BiXbCvbDnbSjrkuZOYvlENlmGEY=
+
+Name: assets/www/svg/ios-refresh-circle.svg
+SHA1-Digest: jTFujKMaExIEl+USn52xT8d5N+Y=
+
+Name: assets/www/97.26ae3b0564b42297b6d2.js
+SHA1-Digest: C8E37vtm8Vb8nKQi6URzFQzftt4=
+
+Name: assets/www/92.js
+SHA1-Digest: daNWK7VzXOIhTSHvt6tJevvNoNU=
+
+Name: assets/www/69.js
+SHA1-Digest: oV74yDTGjgAE3ytExOKV7AiMCRk=
+
+Name: assets/www/svg/logo-sass.svg
+SHA1-Digest: Fr95IRwQahlAlk4Xv+7Pless+uE=
+
+Name: assets/www/108.4806825e418d99db7c91.js
+SHA1-Digest: hfMwZ8YTTyMQNemTTn/FbhStZRg=
+
+Name: assets/www/svg/ios-battery-full.svg
+SHA1-Digest: 5Q7vMsYlq3zQjmtN8K1uJTnjz6U=
+
+Name: assets/www/3.js.map
+SHA1-Digest: BaQSDSqjqWLt8xm2R3QTn71Rp0Y=
+
+Name: assets/www/svg/ios-battery-dead.svg
+SHA1-Digest: m+uXDYq2IF6QTuToIDKl1d7HSpk=
+
+Name: assets/www/runtime.465ac5fdb6f0ce37e8a5.js
+SHA1-Digest: cR9FJU/K4rhcOKQz/tj3S1lZ4X0=
+
+Name: assets/www/svg/ios-man.svg
+SHA1-Digest: U/NOrhz4/Glea9e7MK36DHQdc48=
+
+Name: assets/www/45.js.map
+SHA1-Digest: dIL5HIe3btnmFOlcuGrE2HtzrKU=
+
+Name: assets/www/svg/ios-time.svg
+SHA1-Digest: SNqWNt8fXmKzA1dpsqT3y403kL0=
+
+Name: assets/www/svg/md-jet.svg
+SHA1-Digest: KMFrYQaW5ux3OgX3DN9+gHJS4xU=
+
+Name: assets/www/svg/logo-xing.svg
+SHA1-Digest: ajit/gDP9eUb9vTyRQgvt6FWYH0=
+
+Name: assets/www/svg/md-wifi.svg
+SHA1-Digest: ZOOmTJsyogLD/ZCfW6iT1653YgE=
+
+Name: assets/www/124.js
+SHA1-Digest: JDNe6HvMc4mWOmPb6o0a4TZiF58=
+
+Name: assets/www/62.js
+SHA1-Digest: NsTTB4bzQYfVeK6KMEFhLzgUCFA=
+
+Name: assets/www/158.js.map
+SHA1-Digest: CD460ZCYXs78FVyDDS8snbq3Uco=
+
+Name: assets/www/84.js.map
+SHA1-Digest: CQAfRHuc92MKxUnJR8LzQW4UBcI=
+
+Name: assets/www/13.b44ca5b15e6775009c04.js
+SHA1-Digest: +qdHaNO2OPxj6qRiLShlxQ64vM8=
+
+Name: assets/www/svg/md-notifications-outline.svg
+SHA1-Digest: NOxwGTxzr10LU7fmkxw3fPqXUHc=
+
+Name: assets/www/svg/ios-eye.svg
+SHA1-Digest: Ua01PWGGrOBsD8e6qo5qNaIjNCA=
+
+Name: assets/www/svg/logo-apple.svg
+SHA1-Digest: z9w8GP5n5jIXBhEkjV/A/keU5hI=
+
+Name: assets/www/136.js
+SHA1-Digest: vOuymiTE4m/2SFSUgTVx6rx5Shw=
+
+Name: assets/www/126.js.map
+SHA1-Digest: kosc4/kDMjoIIZdD6wPx/Rrzrig=
+
+Name: assets/www/svg/md-pricetag.svg
+SHA1-Digest: 6YiHy1wydsoszOdYL/aUso9nUaQ=
+
+Name: assets/www/svg/ios-cash.svg
+SHA1-Digest: pJRNUhjAeEfFZc1qgDK9Q5UD6fM=
+
+Name: assets/www/svg/ios-outlet.svg
+SHA1-Digest: gNQ5SjkzPrwA4/uxyO5+cnall80=
+
+Name: assets/www/15.js
+SHA1-Digest: 7SjuavWPMQBTZ2+5sJ7HlQqJYEI=
+
+Name: assets/www/svg/md-clipboard.svg
+SHA1-Digest: TOQ2K8VCf/jzdgEhXR9QjackgIQ=
+
+Name: assets/www/svg/ios-return-left.svg
+SHA1-Digest: 4zPSodhSWoP+wJpS0onu/7cRc9s=
+
+Name: assets/www/units-units-module.js.map
+SHA1-Digest: GR46WCcZ0OFXSDZDb4E0dia6+mQ=
+
+Name: assets/www/120.js.map
+SHA1-Digest: OhbzItpyiStU2Q1i44lSJSo4ask=
+
+Name: assets/www/svg/md-cog.svg
+SHA1-Digest: BxhtkF0pDwA0qkZgxKCURqlUWtQ=
+
+Name: assets/www/svg/md-code-working.svg
+SHA1-Digest: XSXX1uiEkrTCiP59PA0VYeehMrk=
+
+Name: assets/www/plugins/cordova-plugin-app-version/www/AppVersionPlug
+ in.js
+SHA1-Digest: V7Ywjbu2Kj4wesp8mWW2lF5aDpE=
+
+Name: assets/www/122.dd27af61f5dfe10506e4.js
+SHA1-Digest: bX9OsOUCKmiFnIX7k0tSTsiIZ4g=
+
+Name: assets/www/161.f8c1f46fb2bcc773ef1b.js
+SHA1-Digest: A4XbZ6TYIK21e40PIhMix6L0yps=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/model/CircularR
+ egion.js
+SHA1-Digest: +05XWet9ecMXEXh+1KuuIh2U6iM=
+
+Name: assets/www/115.js.map
+SHA1-Digest: UHnDtdPWmuszIvBfOUdR2zmOmcM=
+
+Name: assets/www/112.js
+SHA1-Digest: kIh4Yb3OLmJnRFMUoqqmMCJ3UHA=
+
+Name: assets/www/svg/ios-bug.svg
+SHA1-Digest: kNpm51jf6MsDOxfDllhxAc83Svw=
+
+Name: assets/www/74.js
+SHA1-Digest: W4Ez70ADlEyViXQNWO0MGfRyl5s=
+
+Name: assets/www/svg/md-finger-print.svg
+SHA1-Digest: 1grm0gzc38f7KonS6+Qkhy8XaYw=
+
+Name: assets/www/56.js.map
+SHA1-Digest: vs+8s+YjH+pKWdOd4jQfWWICDB0=
+
+Name: assets/www/svg/md-contract.svg
+SHA1-Digest: iPdSQBq+ijIhrzaQoMPuwAeB/8s=
+
+Name: assets/www/svg/ios-calendar.svg
+SHA1-Digest: y+DoeXPr9g0C8VTxqz+/Ccl08yQ=
+
+Name: assets/www/142.fbcd7d74a9010004d77c.js
+SHA1-Digest: oS0KaoB0rkHptrfLSu8WwSZukLM=
+
+Name: assets/www/svg/md-mail-unread.svg
+SHA1-Digest: 2+d7ZI6LgssJVBBVApO9uu8pO/Q=
+
+Name: assets/www/169.js.map
+SHA1-Digest: S2HgkDtNo9VDaX0dY/KryKhP1aQ=
+
+Name: assets/www/svg/md-mail.svg
+SHA1-Digest: DvlKkzgVeL0M5dd0bH9U6Et4fkc=
+
+Name: assets/www/svg/md-bonfire.svg
+SHA1-Digest: cDIqW3rlC2hvfGqdzTTAcLbHyB4=
+
+Name: assets/www/svg/ios-wallet.svg
+SHA1-Digest: 2gBfpGSu8plSwBDYVNq4a7Fvkng=
+
+Name: assets/www/139.de89a57eef4d717fbfeb.js
+SHA1-Digest: gXFa2X6zjYWkI5i9eN2bDGt4mt8=
+
+Name: assets/www/146.40a1fe7227f551cbe5dc.js
+SHA1-Digest: 6pf6UucQ5YYT/W6oACRfO1bbTsQ=
+
+Name: assets/www/svg/md-print.svg
+SHA1-Digest: 6v8ynwBPhDZJAJwdMsZR2/ijZtI=
+
+Name: assets/www/svg/md-home.svg
+SHA1-Digest: FgBgwhxvT/phmOJV8/9+hWgf5O0=
+
+Name: assets/www/20.7884fc38326aa935e9d3.js
+SHA1-Digest: shOt47LlHcweAQq0rWN1u60kWbk=
+
+Name: assets/www/svg/logo-octocat.svg
+SHA1-Digest: MCiYIiJRJdKbjA0Fo1esCC8ToSo=
+
+Name: assets/www/96.js
+SHA1-Digest: d9g4bRmfggrl5PxifUYCFasCOsA=
+
+Name: assets/www/171.js
+SHA1-Digest: Beh8TQCLzss8+oA+0rsWOv0hzdM=
+
+Name: assets/www/svg/md-transgender.svg
+SHA1-Digest: HFA/p530uTzFfXsFB5cp5FEThrw=
+
+Name: assets/www/112.5d807613ef17eb0fca0d.js
+SHA1-Digest: lwZCCj4XfSKjbmc3D7vqZIbNEjE=
+
+Name: assets/www/147.js.map
+SHA1-Digest: S3/snFscplGgfet3oKsda4aAv44=
+
+Name: assets/www/148.js
+SHA1-Digest: NGMkYJEVJvrkRQNs0BI8k68D1R8=
+
+Name: assets/www/175.2973e4fecf01e14fce21.js
+SHA1-Digest: ZxEBQqJ+yd1RLSQfHXw/boY74Kw=
+
+Name: assets/www/1.js.map
+SHA1-Digest: OU3YarXx/hJkvl0rutp04uExRr0=
+
+Name: assets/www/37.js
+SHA1-Digest: iEuWdd9pFjy5l5JqL0GqjTS9C1Y=
+
+Name: assets/www/svg/logo-dropbox.svg
+SHA1-Digest: qsUF8kN9dkmukAR/uKFkXwQGccc=
+
+Name: assets/www/runtime.f4e51bd6acd40c128b13.js
+SHA1-Digest: stF56+IlOel8wOsw9nMABWyMtx4=
+
+Name: assets/www/106.9a9cbcaed6cad6a652fd.js
+SHA1-Digest: 0iBTVF8aiHqA9T1wjqigeVKSq9w=
+
+Name: assets/www/svg/md-walk.svg
+SHA1-Digest: eb2ffirE8DGtoU3fpApjfx4kb88=
+
+Name: assets/www/34.js.map
+SHA1-Digest: 6btGEHxkvNK2M8rUzh17Uwl5gto=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: Id9Vg3sFx1vNI3GWKZQhBsd7iW4=
+
+Name: assets/www/40.js
+SHA1-Digest: mVypPVH7EQCkx4vuXSxCfVnlS94=
+
+Name: assets/www/svg/ios-arrow-round-back.svg
+SHA1-Digest: km3OaEQXByylxku4KcybKnV0P1k=
+
+Name: assets/www/svg/ios-american-football.svg
+SHA1-Digest: Gd9MT03eR6th+Z+B1oMNQ3yHhEY=
+
+Name: assets/www/svg/ios-chatboxes.svg
+SHA1-Digest: 9Qlmpl/ey3GvCHyEkfek3rCjnZ8=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: 6sJ7sjac9Lnzn03PEoe8xZdqWfw=
+
+Name: assets/www/62.js.map
+SHA1-Digest: d/ftS0OVJI7/F2ANFrM7NN6yTo4=
+
+Name: assets/www/svg/md-refresh.svg
+SHA1-Digest: SuD6N+HVP2jxgwCQhjRx0OPO1Lg=
+
+Name: assets/www/svg/ios-paper-plane.svg
+SHA1-Digest: SZ8E4dY3VZ40tGtvnB+JnmlCEIA=
+
+Name: assets/www/29.js.map
+SHA1-Digest: nnleAQGnLCynwt8M3F/nwF8uziw=
+
+Name: assets/www/svg/md-airplane.svg
+SHA1-Digest: aJs0dSdWwOIwogD5LouFXUfKdcc=
+
+Name: assets/www/24.js.map
+SHA1-Digest: zlF6v7jZ0R556/BeIGOk2p0Yb9k=
+
+Name: assets/www/72.js
+SHA1-Digest: BK4ouUu0K0/3ck17kE9Z/UUc74g=
+
+Name: assets/www/67.js.map
+SHA1-Digest: b2GLJxkVg1NxYq3nHEKMBvIByic=
+
+Name: assets/www/114.js
+SHA1-Digest: 3HDVy+uFICaMwzVTjLf9rL7KTOA=
+
+Name: assets/www/svg/md-share-alt.svg
+SHA1-Digest: KbHGOPLqemBmK7Anr8OEPoF2BEs=
+
+Name: assets/www/svg/md-swap.svg
+SHA1-Digest: F32v+/hoPQrbgq1iqZEiCdNxPbM=
+
+Name: assets/www/svg/md-hourglass.svg
+SHA1-Digest: NyNl1AjAY2ufi+6UFc1p9YFOdbE=
+
+Name: assets/www/88.dd55a7c0261c3f014cf0.js
+SHA1-Digest: xXO0h7Z5G/ZfYuONf9cEyxV8CS8=
+
+Name: assets/www/svg/ios-shuffle.svg
+SHA1-Digest: P7F28VylSZOTwl9WfNVS/iEpn1U=
+
+Name: assets/www/svg/ios-git-commit.svg
+SHA1-Digest: ZVtFP65T7rKMh0CAtJYxlFuShag=
+
+Name: assets/www/svg/ios-water.svg
+SHA1-Digest: xks0tODZrOiBjrS1vkTcq8ONb5E=
+
+Name: assets/www/15.e9e82fda800bb299c90d.js
+SHA1-Digest: AydEcvPq1QDta2CWQxvMcHzj7m8=
+
+Name: assets/www/svg/ios-save.svg
+SHA1-Digest: VmUIbDGlrVg/CRrzGrT9B1nn89I=
+
+Name: assets/www/svg/ios-search.svg
+SHA1-Digest: yzsILFupqjQ+ZQGxpX3dj8xew0o=
+
+Name: assets/www/svg/ios-print.svg
+SHA1-Digest: gLQrbKswSVGCwKm0iZemmhJUA3I=
+
+Name: assets/www/svg/ios-contacts.svg
+SHA1-Digest: xuFyLxHQL3+UYhCBTnJFE8cPQt8=
+
+Name: assets/www/152.4f51b69b64558809d22f.js
+SHA1-Digest: QUx3qO/GNzPg7eJ8jmUpua2Me10=
+
+Name: assets/www/170.js.map
+SHA1-Digest: gdhSzmnTxejVCfl/6hU/1AeAHXg=
+
+Name: assets/www/svg/ios-document.svg
+SHA1-Digest: ckodBWiYL5UWljLcIDgmUNMM4vo=
+
+Name: assets/www/137.js.map
+SHA1-Digest: /8pme86vJLeEZY95bvz7W2tWzYQ=
+
+Name: assets/www/svg/ios-mic.svg
+SHA1-Digest: dvkbZ8KaJiOTXmNj7emfEggL0qw=
+
+Name: assets/www/61.6cac40488c0a706d9f37.js
+SHA1-Digest: LNQPFPYqLXoTMEMkvTETGhqye9w=
+
+Name: assets/www/svg/ios-color-palette.svg
+SHA1-Digest: sZwNdHC+/U3CQthZs7g9MjUCbMs=
+
+Name: assets/www/148.js.map
+SHA1-Digest: 63MQ3Lg00it5SbSpNEiQNaj5Ma8=
+
+Name: assets/www/svg/ios-pie.svg
+SHA1-Digest: 0lafMiMd6KG1Dor1l1iaL0KIJdI=
+
+Name: assets/www/common.js
+SHA1-Digest: yO5GbwdDsPv74W5XoyzpA2Mtigc=
+
+Name: assets/www/svg/ios-eye-off.svg
+SHA1-Digest: T6QUc55jtZoHYBvccRkn/tyeTBY=
+
+Name: assets/www/svg/logo-codepen.svg
+SHA1-Digest: dAWqTbJP1uQFHx+Ri4QB2BQIRqs=
+
+Name: assets/www/84.62ce0af23ad82d1a9bcc.js
+SHA1-Digest: CAxmYihT0trDfrxM5B11lFXSUAo=
+
+Name: assets/www/142.js.map
+SHA1-Digest: ozgrONs7uEZ3ACbRmFADFsZbFZc=
+
+Name: assets/www/svg/md-moon.svg
+SHA1-Digest: 3ns26YeJUFiLL+ofGBnyz9DjUMM=
+
+Name: assets/www/104.js.map
+SHA1-Digest: G/23PtuhFhBCVbIFCfrZN7AYo8c=
+
+Name: assets/www/39.js
+SHA1-Digest: 2E/yZi7MWWEty0bnNI+oeZoNK20=
+
+Name: assets/www/131.js.map
+SHA1-Digest: zsTfGnC+g2GkO0eNtCHVmDrSSDc=
+
+Name: assets/www/84.js
+SHA1-Digest: KQoqOkh2uYm5a3GE39cieaRAWzk=
+
+Name: assets/www/svg/md-hammer.svg
+SHA1-Digest: gVyAzxVf0wrrAyV4zvR7t9VRycE=
+
+Name: assets/www/svg/logo-twitch.svg
+SHA1-Digest: MpOuc8jyKx+td7BmQGW2D7p8Xus=
+
+Name: assets/www/svg/logo-instagram.svg
+SHA1-Digest: Bsdt/Zs+C8yYXiS7U9hUCKJxD4g=
+
+Name: assets/www/svg/md-arrow-forward.svg
+SHA1-Digest: Pv+D8A1BTfrJCOQmq/oxnBygf+I=
+
+Name: assets/www/svg/logo-markdown.svg
+SHA1-Digest: QZv+EWrYZ1XQ3skeENugkIpFz7Q=
+
+Name: assets/www/svg/ios-exit.svg
+SHA1-Digest: WPdQ/rYcAUl/DcWMGZdgCKxvR+0=
+
+Name: assets/www/146.js
+SHA1-Digest: dgqUFvMeRE0vHNJkAkXRUclU534=
+
+Name: assets/www/svg/md-close.svg
+SHA1-Digest: oSUtNeDI29aSmYzm6I5OW1IXd/s=
+
+Name: assets/www/assets/images/logo_large.png
+SHA1-Digest: IVCY+nHCfG84C5Fyik5wiuxn1k0=
+
+Name: assets/www/svg/md-archive.svg
+SHA1-Digest: sIHu/OMxwOFzBUDQWJGGwGCcMxY=
+
+Name: assets/www/178.48fbef809f79f5ed1c6c.js
+SHA1-Digest: J59k7oPVeXXMFNKBRjgBTAuyM2Y=
+
+Name: assets/www/svg/ios-keypad.svg
+SHA1-Digest: cGxaM0QrWforZoPNZDMcQCMlmCE=
+
+Name: assets/www/35.js.map
+SHA1-Digest: vXW63AV3jv8lQSHqwGXaUDAWcW8=
+
+Name: assets/www/49.js
+SHA1-Digest: m5ovhopT+Gj8lHR8UYu41Zq7Mec=
+
+Name: assets/www/svg/ios-more.svg
+SHA1-Digest: 15eqGu+ck5sXEC0Kp/90SuDCDcg=
+
+Name: assets/www/158.js
+SHA1-Digest: 2OSeEvyjwTAozU/9aviAZH65IHI=
+
+Name: assets/www/51.js.map
+SHA1-Digest: /Y3l9/meO6B0mPFmi3KRaH9DKd8=
+
+Name: assets/www/svg/ios-mail-open.svg
+SHA1-Digest: vv4/ITt2i82WFuZSaRijeUS9Tuk=
+
+Name: assets/www/svg/ios-star.svg
+SHA1-Digest: A74CfbaqkNfmKRVBsidQnDHYU4Y=
+
+Name: assets/www/13.14259d9d1ae8d558193a.js
+SHA1-Digest: qcz/6Sz820Rw2P9PGDm2qPWi8T8=
+
+Name: assets/www/svg/ios-watch.svg
+SHA1-Digest: OjyF4uml9a39QhKGufB/mIhzafM=
+
+Name: assets/www/73.js.map
+SHA1-Digest: xssAZUg9di4j/t+q3TCs4OvnWRQ=
+
+Name: assets/www/svg/md-arrow-dropdown.svg
+SHA1-Digest: 0mQyUSQzfS3K+H9c5KNS49abVQQ=
+
+Name: assets/www/18.js.map
+SHA1-Digest: 0F6q2BQ5KT5LoMU07GggKXAF3mg=
+
+Name: assets/www/13.js.map
+SHA1-Digest: eYR4TQh1PN+LE8LrnR+Jk1fstG4=
+
+Name: assets/www/svg/md-reverse-camera.svg
+SHA1-Digest: q3YUWAL5uTIrptPVG8A7gANd55A=
+
+Name: assets/www/95.js.map
+SHA1-Digest: gt3xGnblBi5mnly4fO+EC3mMJ08=
+
+Name: assets/www/svg/ios-recording.svg
+SHA1-Digest: TRNdijy4or+W3xX35w8nnUuN0iQ=
+
+Name: assets/www/svg/md-checkbox-outline.svg
+SHA1-Digest: eMDGe7ugMjsYZ1BsUDtk7VQacxs=
+
+Name: assets/www/svg/md-pint.svg
+SHA1-Digest: EwCdgoZ8Za/8/V49vppbv6mvcj8=
+
+Name: assets/www/svg/ios-help.svg
+SHA1-Digest: 2R8k42N/0NxqIO12g/ke3/Gg2mM=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: AdJvwJZkb4pGnhIxm97Gr6MrHGY=
+
+Name: assets/www/svg/md-tablet-portrait.svg
+SHA1-Digest: GwI4p6ykPwWgRLjG8yLcyG3zyiM=
+
+Name: assets/www/svg/md-crop.svg
+SHA1-Digest: fOMUOvdfTirjHZ6+i0oHTpVpjWc=
+
+Name: assets/www/svg/md-return-left.svg
+SHA1-Digest: j+S1BERLwTIOu/j4dRjFdd8G4z4=
+
+Name: assets/www/111.f92fff439233c387a048.js
+SHA1-Digest: eu2EQ4pi3Lp9WtCWVoxPczdCiaI=
+
+Name: assets/www/164.js.map
+SHA1-Digest: Ly3xcVZb3hVatyPyZwRqdbN9FyY=
+
+Name: assets/www/svg/ios-photos.svg
+SHA1-Digest: +LAQ/T0wcImqJilr0B3OHKgUaRM=
+
+Name: assets/www/svg/md-clock.svg
+SHA1-Digest: /WIEVgmIdfDKIVyJd5XnNAWVgcw=
+
+Name: assets/www/172.293c27436efea472d6d2.js
+SHA1-Digest: GE3Nssm2vghH/IrGke9zrC6a6EM=
+
+Name: assets/www/71.d9ff2a95775753bc0bdf.js
+SHA1-Digest: Uf0t9LOEoBs5VbgwFo/tBQVxIkw=
+
+Name: assets/www/27.js
+SHA1-Digest: mj3dzgjuJ0L7bM47ixEick81wgU=
+
+Name: assets/www/svg/ios-at.svg
+SHA1-Digest: wmFLfGJXvv6EWBoRqzdiEWbUizI=
+
+Name: assets/www/svg/md-done-all.svg
+SHA1-Digest: t/BzaK4z/HmZMyjfJflv+6wf1Z8=
+
+Name: assets/www/svg/md-heart-empty.svg
+SHA1-Digest: S6WrJe252kfR7M12po8jNBCEKXc=
+
+Name: assets/www/109.js.map
+SHA1-Digest: Ajh9ETh1RtiFuYPxraxZ28rV7dc=
+
+Name: assets/www/svg/ios-filing.svg
+SHA1-Digest: YznFOqAOVvky4NRLztU0U0aDt0M=
+
+Name: assets/www/svg/ios-rainy.svg
+SHA1-Digest: DaAHG1/GlWkJ33jzlTtLUiWiY4g=
+
+Name: assets/www/svg/ios-bulb.svg
+SHA1-Digest: Piq4aBGoePvY1WM/qUSz0mNsZzc=
+
+Name: assets/www/svg/ios-stopwatch.svg
+SHA1-Digest: glHDGAlJaIK6SW3aTNzSq/W6U/M=
+
+Name: assets/www/svg/ios-arrow-down.svg
+SHA1-Digest: veosd1UnW9ZxRtWsU3RLJ2O1t0M=
+
+Name: assets/www/50.js
+SHA1-Digest: Po6zoCNL2MUuh5CvBqrGVMJMilA=
+
+Name: assets/www/plugins/cordova-plugin-bluetoothle/www/bluetoothle.js
+SHA1-Digest: p8NZWwFmDaxBbXiWmLpLJRf4Dz8=
+
+Name: assets/www/svg/ios-gift.svg
+SHA1-Digest: l3GXRD2aSM1ePfgN9HpEz7xh5zg=
+
+Name: assets/www/102.js
+SHA1-Digest: CXyeYnuOgum3fuvZZ+j0pjtx4C8=
+
+Name: assets/www/svg/ios-radio.svg
+SHA1-Digest: Ftfx7j5zIazhBVzjIH6KhtCd39E=
+
+Name: assets/www/75.5125ef8f919af59c4898.js
+SHA1-Digest: 572ADRjmG+oNjTW0DenJT56R9vM=
+
+Name: assets/www/svg/ios-tablet-landscape.svg
+SHA1-Digest: hB3pjr7ghbEExs6jrbJxwTgAa4Q=
+
+Name: assets/www/86.a1d30d3a80e89ab70b9e.js
+SHA1-Digest: Qsgide9m2K8xzIyrjgNr4icV0qU=
+
+Name: assets/www/9.js
+SHA1-Digest: 8C9ZklpN1j53QUjV2ObfqzsaB/M=
+
+Name: assets/www/svg/md-filing.svg
+SHA1-Digest: VX7VLNg27QmD8xP5d4pjq9/S568=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: rb15Q0B8cy1iCLDZDsIBgU7XEY8=
+
+Name: assets/www/99.js
+SHA1-Digest: NdYl5os2GzE44ROkuizCngxppLI=
+
+Name: assets/www/53.js
+SHA1-Digest: 4veB/sM5GY/RrfeZN2wRp+NRf1s=
+
+Name: assets/www/runtime.1a0225fdf81e673d5c29.js
+SHA1-Digest: PDokoTEHyRsBKdS/g1Ay1BWdkBw=
+
+Name: assets/www/svg/ios-arrow-dropleft.svg
+SHA1-Digest: EJV6s6YvpqbHn3judEghX+QM1Qg=
+
+Name: assets/www/svg/md-umbrella.svg
+SHA1-Digest: gp+Nv2UGkRzhysgbMediu/wCi6A=
+
+Name: assets/www/16.63edff67ff3658f68233.js
+SHA1-Digest: /xouPVQG/u6tcxHOPijLCED5ywI=
+
+Name: assets/www/svg/md-at.svg
+SHA1-Digest: Sopa24NWNulCul+4XqM+ujwPqGA=
+
+Name: assets/www/133.js
+SHA1-Digest: fr28T+yJYSbXZ/P2HRX+VHMFhhU=
+
+Name: assets/www/runtime.f93271ca61961f38348f.js
+SHA1-Digest: 4YvoLwyelpekJQDvg0unTpEL2SU=
+
+Name: assets/www/svg/ios-undo.svg
+SHA1-Digest: LGcn7ZZpZsdmm0Qf5Ts3TV7tLHA=
+
+Name: assets/www/18.js
+SHA1-Digest: bvZBCTEj4UPZvRyISJZhaz2QlWU=
+
+Name: assets/www/svg/ios-send.svg
+SHA1-Digest: Z92uuV3ytDTf/AtNcHRwE7z1I+8=
+
+Name: assets/www/svg/logo-steam.svg
+SHA1-Digest: xIMkRwsxC0cQrKQh7+b4cilljyE=
+
+Name: assets/www/159.js.map
+SHA1-Digest: DjB6oMR5OpK3SgmGQIlWFb78bQo=
+
+Name: assets/www/svg/logo-designernews.svg
+SHA1-Digest: Rxc0WJQMAwNts69rgpUmPmkMy6Q=
+
+Name: assets/www/124.7ca03913fe8b89587136.js
+SHA1-Digest: IEz5uhXLeSr7Z4us4vYoO2/KPq8=
+
+Name: assets/www/87.js.map
+SHA1-Digest: tvRoiP4q2xkizhRdqnDiP7WZ0UI=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: z0oai5b1MK3J/UNjdCA5ECdf2qg=
+
+Name: assets/www/svg/ios-notifications-off.svg
+SHA1-Digest: G97crOcvPX5f1OtesTUVrSJLs/Q=
+
+Name: assets/www/svg/ios-beaker.svg
+SHA1-Digest: kk3V57jfzjqcpOux7+9aUDh+tns=
+
+Name: assets/www/svg/ios-stats.svg
+SHA1-Digest: H3sz2UyQn/Ne/ZT+1slLjPAVEts=
+
+Name: assets/www/0.js
+SHA1-Digest: cm4PBfcK0p6evL170/3reJYRBfs=
+
+Name: assets/www/svg/md-information-circle-outline.svg
+SHA1-Digest: 9o67ziBUojoFS1x40dIkWgd3loY=
+
+Name: assets/www/162.js.map
+SHA1-Digest: EPcV5OwM8FU4kt/pea9Tjk6feZo=
+
+Name: assets/www/svg/ios-expand.svg
+SHA1-Digest: wg5avKOx6zUBtXbBJsPNaIW0NLg=
+
+Name: assets/www/151.js.map
+SHA1-Digest: SbxNisxUrhWOjkz5vAb+ChIDDng=
+
+Name: assets/www/svg/ios-information-circle.svg
+SHA1-Digest: NGEJErLdRXWYBDea8EMZLay5zZY=
+
+Name: assets/www/svg/md-list.svg
+SHA1-Digest: 6fipXh2Nzl90yDiJRrdiYtBf0N4=
+
+Name: assets/www/plugins/cordova-plugin-local-notification/www/local-n
+ otification-util.js
+SHA1-Digest: J4cY9RDN5aqfCGJ/Lla6+xbdRFs=
+
+Name: assets/www/svg/ios-redo.svg
+SHA1-Digest: 1eHfAXu8e0rJl9AB9Q9n69vGMqU=
+
+Name: assets/www/svg/md-radio.svg
+SHA1-Digest: uGb97v5TWWBKOXuWvarQaxkcibo=
+
+Name: assets/www/svg/ios-airplane.svg
+SHA1-Digest: f+UaGRCt652OVGukm/NheCtWcrc=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: AtB3MW7moDGFr7IL2W9OJS59oMM=
+
+Name: assets/www/svg/md-grid.svg
+SHA1-Digest: i2X50m5nzqKQoeHw2H3duSAFSNA=
+
+Name: assets/www/svg/ios-volume-high.svg
+SHA1-Digest: v1vq+G/J10/1mGGpvIADYslMv2c=
+
+Name: assets/www/svg/md-basketball.svg
+SHA1-Digest: PT/dy0S2rOCNtox73VdjtK7l7gg=
+
+Name: assets/www/125.80f933a38ae6e922b152.js
+SHA1-Digest: 1u9eit7WIauXdaYdfPQIntCwxT8=
+
+Name: assets/www/1.36b351bd0025f09f23d6.js
+SHA1-Digest: jP/V3FgtOlzCuHGLKEpxKxHXcMo=
+
+Name: assets/www/7.038f89d0855f4dc942a4.js
+SHA1-Digest: XAcYBGHi+dW8x0bR4fyGMdGU7hE=
+
+Name: assets/www/svg/md-add-circle.svg
+SHA1-Digest: wWylcmDjYcDUnoZdzIi5rjxwlSc=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: 3h6YEY5InWGZOopF88imfmZb+4w=
+
+Name: assets/www/39.js.map
+SHA1-Digest: B0ghvAWEoyMGTyKhgImmZ/HeVi4=
+
+Name: assets/www/svg/ios-person-add.svg
+SHA1-Digest: dUW8zR3PKZH7+cdCCVDlTQsYtEM=
+
+Name: assets/www/167.js
+SHA1-Digest: eW2lAtttRpaCcYq4R/B9lAnBZX4=
+
+Name: assets/www/plugins/cordova-plugin-nativestorage/www/mainHandle.j
+ s
+SHA1-Digest: wv0rjLtFyULO9p51ucsj36rgeWU=
+
+Name: assets/www/svg/ios-chatbubbles.svg
+SHA1-Digest: JHJiDgm/3gX2JfcLBDW/JhbYtUY=
+
+Name: assets/www/121.js
+SHA1-Digest: BViIDSznZsZqpXEZ0HqQwEGudxM=
+
+Name: assets/www/27.214c2ef9275d80fb0bee.js
+SHA1-Digest: Nwrp44HgQ9Sy3Ez9MH5TyJSk1Ek=
+
+Name: assets/www/46.js.map
+SHA1-Digest: k7KEIAriCM9jK51G1rEB9sFtgCQ=
+
+Name: assets/www/svg/md-mail-open.svg
+SHA1-Digest: hRc0j7C6o2COfYKS8L6sRj9ywg8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: BtB5Vk0ypcASorr0SfDv2cKCTaY=
+
+Name: assets/www/svg/md-pulse.svg
+SHA1-Digest: EayR+OhOyZbXbv6DsAqwzQKIJc0=
+
+Name: assets/www/svg/ios-infinite.svg
+SHA1-Digest: lbkZfUfEceqgMOzeQuuFuCklkNs=
+
+Name: assets/www/svg/md-flag.svg
+SHA1-Digest: nQxTBIsa6x0c+vvoulbVU6EEno0=
+
+Name: assets/www/svg/md-rocket.svg
+SHA1-Digest: 6roWHHdq3zlBqYsebkOLI7QsFiY=
+
+Name: assets/www/svg/md-egg.svg
+SHA1-Digest: 4uMZEDLS5BEbaYsKLQwfcnaoy5I=
+
+Name: assets/www/133.7058c18a24e1c0913d57.js
+SHA1-Digest: jcOBlNG5sdTdNxQaCQt1caVZMc0=
+
+Name: assets/www/about-about-module.js.map
+SHA1-Digest: Lh/xTiIXTpeTkpcUkHPt5ZWLuYk=
+
+Name: assets/www/159.4eb29c30b14983d334e1.js
+SHA1-Digest: m1Ts2nxAyAYVnVXe/1tLRk/Xf3g=
+
+Name: assets/www/95.87808763fc58ecf5bee6.js
+SHA1-Digest: 20MWwzstzpRbY9ro3N18lqLi0Wc=
+
+Name: assets/www/svg/md-log-in.svg
+SHA1-Digest: 30+DBgu3nJ80yuyOUV/uLrLKRSo=
+
+Name: assets/www/svg/md-notifications.svg
+SHA1-Digest: ExhEbRKMBjK1W8gBJ5HY3n8i6Iw=
+
+Name: assets/www/87.js
+SHA1-Digest: 7pY+8Jkz5OtsGjTPbBTmOvVe2XE=
+
+Name: assets/www/svg/ios-cloud.svg
+SHA1-Digest: boO6zecyQ1NePI5wMEmgzioxrP4=
+
+Name: assets/www/145.js
+SHA1-Digest: En3FJX1+MPD8zYFwrIICyoGTLsI=
+
+Name: assets/www/svg/md-cloud-download.svg
+SHA1-Digest: FW3DRZkCP5PEO66dkcgcXYVBzfg=
+
+Name: assets/www/svg/md-undo.svg
+SHA1-Digest: 6yP7y8a3GaCgfmrMCmmZc6e/8g4=
+
+Name: assets/www/136.js.map
+SHA1-Digest: CmoAUAO3KTywn4rppe4W3BCHFsU=
+
+Name: assets/www/svg/md-options.svg
+SHA1-Digest: VssoO+8FeeUy1aSZB51Fy0v5ZDE=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: assets/www/svg/md-lock.svg
+SHA1-Digest: 22n1ViTR45CaGTtGbPVczVsnp+Y=
+
+Name: assets/www/145.f9c8144eeced97418361.js
+SHA1-Digest: t+ln0vibQoIha8MW4ykBcR2WDAg=
+
+Name: assets/www/svg/ios-switch.svg
+SHA1-Digest: S7e7juti0QNWUU7ERhsGFlfYl1A=
+
+Name: assets/www/svg/ios-volume-off.svg
+SHA1-Digest: 5o1IXtnuKBQqR53Au8PpZi6IlmQ=
+
+Name: assets/www/plugins/cordova-plugin-estimote/plugin/src/js/Estimot
+ eBeacons.js
+SHA1-Digest: wjLLZu6qjG14hK0itnfhctFDdkE=
+
+Name: assets/www/132.js.map
+SHA1-Digest: HaLTAxybV2da7r/V3STdXmeqEeA=
+
+Name: assets/www/65.d8e5043a622d3cec0936.js
+SHA1-Digest: 933Sc0zZupuSC6zcP8SD0tJRVZc=
+
+Name: assets/www/12.js.map
+SHA1-Digest: IaZscgGSVKApdoWthTKMEI1wy5Q=
+
+Name: assets/www/103.js.map
+SHA1-Digest: C9agQKoKKbFgYgCpFAOv1pdmw0M=
+
+Name: assets/www/121.js.map
+SHA1-Digest: bZpMnCGgTvVFkFKdoBdSxwigyQM=
+
+Name: assets/www/65.js
+SHA1-Digest: //AVAIAHOPZg50SxtFUapsMQ7Gw=
+
+Name: assets/www/119.89259ee55585229357d8.js
+SHA1-Digest: sx87ml69Kg5aSK0xku9nh+NNKIg=
+
+Name: assets/www/svg/md-train.svg
+SHA1-Digest: DqA/1z9gSWUvu6jWYk5EyK0g/vU=
+
+Name: assets/www/23.js.map
+SHA1-Digest: JMqeNw4fpXa07fFwR0Knas5FqCc=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: 3Y6VvJeVwkp14SLrkDoaKiCKm8Y=
+
+Name: assets/www/125.js.map
+SHA1-Digest: /6TZ9z8p9oLga2eXvpDZgcGwbO0=
+
+Name: assets/www/svg/md-images.svg
+SHA1-Digest: J6WIsZbneBY02tILusOm7NkCqv8=
+
+Name: assets/www/110.js.map
+SHA1-Digest: tnMdM54QFeA9aBr0LSiCPYAYvro=
+
+Name: assets/www/64.d40d1c7a76872b3b3260.js
+SHA1-Digest: RJMSS6meqlOaOVFtijbbFUGq8c4=
+
+Name: assets/www/114.js.map
+SHA1-Digest: mJVRYyy233C1RFQiCWx4g7dNrR8=
+
+Name: assets/www/svg/md-phone-portrait.svg
+SHA1-Digest: rLMcye64elqXv/txDaa7XWeFTXc=
+
+Name: assets/www/svg/ios-remove.svg
+SHA1-Digest: /U4s0L0J8juhisE8EVVnAy8BWpI=
+
+Name: assets/www/28.js.map
+SHA1-Digest: CH/A/u0PIz9fH9wuAcr2ANOThCo=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: 5KfRTUTvbVBh0i/rZHC9HhJgAy4=
+
+Name: assets/www/cordova.js
+SHA1-Digest: wSC0WYGKljQORldXOiOIyvuEfmU=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: 39tQbJbkcOZfB3B/xlA3V+PpcQs=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: GspwOAUgsNC+3N8To2y6UcLBJaE=
+
+Name: assets/www/svg/ios-checkmark.svg
+SHA1-Digest: iplio/jrisWoVGSJlvMJ8CLTpsk=
+
+Name: assets/www/svg/md-people.svg
+SHA1-Digest: UcE7OOblPKqQO31dMZdesA8tBH4=
+
+Name: assets/www/50.b0d4b4e76bdebd91b0b7.js
+SHA1-Digest: MulBjJ7TEMGr7aiQY2TYd+uS9+E=
+
+Name: assets/www/svg/logo-pinterest.svg
+SHA1-Digest: BY25g7KoyDt8RLkEhdIQgMiXUnY=
+
+Name: assets/www/svg/ios-reverse-camera.svg
+SHA1-Digest: 3U5Ky0SZzsJ4uM86Y9jc7EoZNHc=
+
+Name: assets/www/svg/ios-nutrition.svg
+SHA1-Digest: SFEKsR2SQii9Gp8XPaXc9mQebBY=
+
+Name: assets/www/svg/md-basket.svg
+SHA1-Digest: VgK2I3vEs4kRxWsLQfvamoNtG4k=
+
+Name: assets/www/160.be41b55b730d1d61f449.js
+SHA1-Digest: 59dX6EO5gujaKl37fMoAeI78Qh4=
+
+Name: assets/www/36.0c66c30b84aafe3b560a.js
+SHA1-Digest: DHz1pwEOcMWBlXSk8mS06n9rENI=
+
+Name: assets/www/svg/ios-pulse.svg
+SHA1-Digest: cszkUVgvaovqkH5dxGiGW+us8TE=
+
+Name: assets/www/svg/md-git-commit.svg
+SHA1-Digest: 6aP4HuKZJSuCjPlMOzg3+LNxmJE=
+
+Name: assets/www/svg/ios-flash.svg
+SHA1-Digest: z/2VmG9wlkPd+p3/yAK68DKr0EY=
+
+Name: assets/www/143.js
+SHA1-Digest: RdNICd0DUIOaTEzTfAnxn0rYsgc=
+
+Name: assets/www/111.js
+SHA1-Digest: QKAf5iwtlwj5pVDHViQDdyMBr0M=
+
+Name: assets/www/8.js.map
+SHA1-Digest: gTOtHy77puLXwWFPGqlNLMJ2hhA=
+
+Name: assets/www/svg/md-more.svg
+SHA1-Digest: 3eaSPok6RKQGF0Uwer9LWxUEXtA=
+
+Name: assets/www/svg/ios-restaurant.svg
+SHA1-Digest: vWUXWE1f8J6NAnvYO2cRT+Y45Cc=
+
+Name: assets/www/svg/ios-wifi.svg
+SHA1-Digest: gJ7JPwSR56o6vdJSJuuJMP+eZ4I=
+
+Name: assets/www/99.ae9e25412c7dd834b0fc.js
+SHA1-Digest: YjTDbVFU+i2kDGFNfdzjExFZvp4=
+
+Name: assets/www/31.js
+SHA1-Digest: w+Y7wNnfHhWuvalZU4ZvFSMH+eg=
+
+Name: assets/www/0.js.map
+SHA1-Digest: 9Lxpwrm6R6ak0NQWjsaczCzQxVU=
+
+Name: assets/www/63.js
+SHA1-Digest: AyPNi3mjNjUk+4EnbxHOlqueGUg=
+
+Name: assets/www/settings-settings-module.js
+SHA1-Digest: aI+OFWFxTU8akFr5ILOvgrCHqzk=
+
+Name: assets/www/svg/md-globe.svg
+SHA1-Digest: 5TytImipf419P+lTDv3GttosL0Q=
+
+Name: lib/arm64-v8a/libsqlc-native-driver.so
+SHA1-Digest: 00ohd9SrAYOrRfWMs42iq0s5iGw=
+
+Name: assets/www/svg/md-map.svg
+SHA1-Digest: DAHZ5L8ny89Jqg/c1/T6C63Ljjk=
+
+Name: assets/www/svg/ios-move.svg
+SHA1-Digest: 2SqzoxAlVa/Da9at+8TWsQ0SvbI=
+
+Name: assets/www/svg/ios-train.svg
+SHA1-Digest: NqmNJOfKu8/8LBfyeOOu3SbwaOc=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: 1GfO/IDwwyLde/veo05ABQB5yTk=
+
+Name: assets/www/97.js
+SHA1-Digest: 4vywO0d4FrkgKd5qnGBdkjrjel4=
+
+Name: assets/www/svg/md-bulb.svg
+SHA1-Digest: C8s3QN6L3kOt/tMWh8f44sQEj1Q=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: JzoQG9DGRrmkgDxn6cE80Jpmgyw=
+
+Name: assets/www/171.77af556838acb3318ef6.js
+SHA1-Digest: GG+AA8yUcGmk47uvm/SruSvP6mQ=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: ojHk5GRGSbpBTAA7JsHa3i/bCdc=
+
+Name: assets/www/svg/md-play-circle.svg
+SHA1-Digest: 8ZQE/dcTuLco0jKUFnzmicJj5i4=
+
+Name: assets/www/17.js.map
+SHA1-Digest: 4HGsC7z5dnmWXZKKP7AO+35THx8=
+
+Name: assets/www/svg/md-add.svg
+SHA1-Digest: FxFxxFxCoi9SAxAeG5zb8wgjzBk=
+
+Name: assets/www/svg/ios-musical-notes.svg
+SHA1-Digest: eR3X2EwK0yVwyivAY1Cxj3w3riw=
+
+Name: assets/www/svg/md-volume-low.svg
+SHA1-Digest: PWOMOG/ziAD2wMakkXMh4L4EuvQ=
+
+Name: assets/www/svg/md-rainy.svg
+SHA1-Digest: HSgCcWo1AEhKQdjoEhKH65NbYU0=
+
+Name: assets/www/svg/md-cloud.svg
+SHA1-Digest: vWUUz8yzavczxI54VTW7vcedNE4=
+
+Name: assets/www/assets/icon/icon_small.png
+SHA1-Digest: eYPsDaLDwtnKDJqI3wZGdHaqLWM=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: 0k8LBi+oEOWbLwk+hCe3TzRFtg8=
+
+Name: assets/www/91.js.map
+SHA1-Digest: 4pTXM7eZrNgsI4/Yxs53vV+ox1U=
+
+Name: assets/www/svg/ios-calculator.svg
+SHA1-Digest: bqLxv4+WyOzxIIYPTZxVgzSP6rQ=
+
+Name: assets/www/svg/md-menu.svg
+SHA1-Digest: DtdcBue3sWaMqUvqTFsdlVnYIBM=
+
+Name: assets/www/41.js
+SHA1-Digest: wJhAqKISfikj7C0eTtEvjVx0ixI=
+
+Name: assets/www/units-units-module.js
+SHA1-Digest: IZNGcYnK91hByMLk8PO1w+iKCAU=
+
+Name: assets/www/svg/md-arrow-up.svg
+SHA1-Digest: mSu2ruxugYp1qnqjc3AIB7qeyRA=
+
+Name: assets/www/75.js
+SHA1-Digest: zGDpF/1MEQ8MLTljQPmxuK+uCoM=
+
+Name: assets/www/svg/logo-html5.svg
+SHA1-Digest: dQhg45kkmXf9MaREUK4ilsBhH8w=
+
+Name: assets/www/svg/md-beer.svg
+SHA1-Digest: b9pFrVA4JQdWw4Aoaf3zXPzApH4=
+
+Name: assets/www/110.0009bca9d569bdd7fa30.js
+SHA1-Digest: IA9qDscqK0HH/CWuGYNLd/nEGmQ=
+
+Name: assets/www/svg/ios-cog.svg
+SHA1-Digest: /gsx+kJ+Kd1Db8TBBAiv3BZo+EA=
+
+Name: assets/www/svg/ios-arrow-round-up.svg
+SHA1-Digest: 7aOmZ3QarlS8Cm8VYlO5UkCaPUc=
+
+Name: assets/www/svg/md-heart-dislike.svg
+SHA1-Digest: n8Nayr1puumx99dR+vfbxPlNTTE=
+
+Name: assets/www/155.js
+SHA1-Digest: yPkifgy3YHoHOJ+pVWc70uxAbjg=
+
+Name: assets/www/165.f3e86a2ce69b115fcb9a.js
+SHA1-Digest: 2g98ELJ9mWDo9YEwi2orSnYcDUQ=
+
+Name: assets/www/svg/md-locate.svg
+SHA1-Digest: ooNF+x+xN0/yJa/RtZG68ra0GqY=
+
+Name: assets/www/svg/logo-nodejs.svg
+SHA1-Digest: 7iUNtVsgVmv/vhzrYkJ7GZnu00o=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: VSc0r7i7iaX4zX05d35X1eSED1M=
+
+Name: assets/www/60.8ebae12b9fc33db25fc5.js
+SHA1-Digest: P/w/5o0bNMVgoBxIs7ZSFKk0jHY=
+
+Name: assets/www/svg/md-remove-circle-outline.svg
+SHA1-Digest: s2H/igC+w2jIQdbRUcWSYhbEJrw=
+
+Name: assets/www/svg/ios-happy.svg
+SHA1-Digest: xwnWQ8YZVARnC+x7Q8UVPQQMot0=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: GDLPGZiAbFHpkr30nhqEYLApRkk=
+
+Name: assets/www/svg/ios-transgender.svg
+SHA1-Digest: mOafPxuxteLF1TpVRsHsSfKwplk=
+
+Name: assets/www/vendor.js
+SHA1-Digest: 1lgndjJsMD4yx9vOve4/G8Gx5LQ=
+
+Name: assets/www/common.dedf524fdae6aa00c501.js
+SHA1-Digest: lLOqFhLgbAIk9t5SNIoTaHbg3mQ=
+
+Name: assets/www/svg/ios-add.svg
+SHA1-Digest: zYjxc6AxEk4YgHts3pAoUZoL4m0=
+
+Name: assets/www/svg/md-text.svg
+SHA1-Digest: WrC/FxjXAQM+207lOnmtuWsfpUk=
+
+Name: assets/www/48.1fff3e70fd3f2c29bee4.js
+SHA1-Digest: OBKu2nvBJ1JKOUnDKr5yRsrat9g=
+
+Name: assets/www/16.bd5c1b624b12356370d7.js
+SHA1-Digest: hqaXqfdSG81u3aD1KH0DddQTAYA=
+
+Name: assets/www/164.a8433ce8483de6768c61.js
+SHA1-Digest: 9WVsMiyD2JisSuVAl2J4YsTnKM8=
+
+Name: assets/www/82.js.map
+SHA1-Digest: y/2agYzbdqfRATx88iwLzHtR0/I=
+
+Name: assets/www/svg/ios-camera.svg
+SHA1-Digest: lr4ksnv954mTD3EeizlkFLQVoSk=
+
+Name: assets/www/181.d38cb67cec93636a9990.js
+SHA1-Digest: Gfz2KR4xV5YP30SKn0e4Gr3+I8k=
+
+Name: assets/www/svg/ios-information-circle-outline.svg
+SHA1-Digest: WoZFc4cTr+3dmziTqVsyB/COc3A=
+
+Name: assets/www/118.js
+SHA1-Digest: 2hux7zlbxTaGjd8GzpgwSdUx/qo=
+
+Name: assets/www/svg/md-mic.svg
+SHA1-Digest: DN7Xy2s7bllFyEa42Dz2ufDO+Fg=
+
+Name: assets/www/svg/md-document.svg
+SHA1-Digest: BtYogiCHBp/6zdXgrelvVkzXgHU=
+
+Name: assets/www/170.c397c9dea331c2dfd741.js
+SHA1-Digest: jCNsKgN+i1RUBDoKFfc2NbybWAY=
+
+Name: assets/www/svg/ios-cafe.svg
+SHA1-Digest: Pk22MncGjXyeZCk2AqZwQvbaOv8=
+
+Name: assets/www/svg/md-checkmark.svg
+SHA1-Digest: BJqacGiB4vQTpE3SOqpsH192pKw=
+
+Name: assets/www/svg/logo-angular.svg
+SHA1-Digest: MVJjyTBGT8dlVqRDvlUEF1/sDj8=
+
+Name: assets/www/128.js.map
+SHA1-Digest: PDxFPUjvyAp+WBfzZgHI8QOQf7M=
+
+Name: assets/www/svg/ios-flashlight.svg
+SHA1-Digest: OxuTSq7YwkS8zmfi+ADvdnysGxc=
+
+Name: assets/www/23.a85bc9ee956804831f7b.js
+SHA1-Digest: 9FVKveN0QdqddPTbBefAg2hs42o=
+
+Name: assets/www/svg/md-navigate.svg
+SHA1-Digest: Y2Cb8L2itBkrzJX0lyDRPz4Q98c=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: fH6fwG+EGyMzmbvAaKY8TbIPcWw=
+
+Name: assets/www/153.js
+SHA1-Digest: +yG7UAggKVMe3q+itTYJ158RuNM=
+
+Name: assets/www/svg/md-gift.svg
+SHA1-Digest: Xuz/Nrfnz44rgSz5VxIRKUROLiY=
+
+Name: assets/www/67.js
+SHA1-Digest: xtD8bCvV/w2h0TcgSpqiL/zsfwU=
+
+Name: assets/www/svg/logo-rss.svg
+SHA1-Digest: wIWOUD1nr0muQI+F2tAtdEYKgLg=
+
+Name: assets/www/21.js
+SHA1-Digest: RTbSXbgM8MKNTjkz5me4+SfQwxQ=
+
+Name: assets/www/80.js
+SHA1-Digest: c4ppX9kV/DqA6igOMgslKJC8Kxg=
+
+Name: assets/www/svg/logo-javascript.svg
+SHA1-Digest: lJrLCbcWkBAOideWfqapsV0+Ibg=
+
+Name: assets/www/117.js.map
+SHA1-Digest: KtKnvDV/vA455UIO8OIvNYl/ibo=
+
+Name: assets/www/30.d1b98a297b8d3009c159.js
+SHA1-Digest: Fmyl8j6Z6jiXVsW3n7S+/kX8lvY=
+
+Name: assets/www/svg/ios-settings.svg
+SHA1-Digest: pnEAqej8wG4TD+KAze7dBi7B5TA=
+
+Name: assets/www/svg/logo-closed-captioning.svg
+SHA1-Digest: pi2o+DfW5sE1qHjBy5bLrj0T1Ns=
+
+Name: assets/www/svg/md-color-wand.svg
+SHA1-Digest: p/tDFD5kR77vAzGqXqqJAfRSCFo=
+
+Name: assets/www/svg/md-ice-cream.svg
+SHA1-Digest: 2jiZ9jTtLvYDLaXJZ9h2ViFFOvo=
+
+Name: assets/www/6.a986c8ded4ea3a36faec.js
+SHA1-Digest: ry7B9zVazQN4Bfvn0hqevuJpmgw=
+
+Name: assets/www/svg/md-remove-circle.svg
+SHA1-Digest: Oto/hgvqygjFnMVnYor3wNl+Ask=
+
+Name: assets/www/131.js
+SHA1-Digest: LVMJgZcWN7IT6gGjed6PyS8Ta0M=
+
+Name: assets/www/15.js.map
+SHA1-Digest: KEKY1+mg29irwX13ByvoJgDTZPY=
+
+Name: assets/www/runtime.863c2db14ad4d774fef9.js
+SHA1-Digest: sHICaEnFqAISZ1yD6wH1A9Pn2eI=
+
+Name: assets/www/svg/md-checkmark-circle.svg
+SHA1-Digest: MX48mDLYn6CmNCh0K+GeQHIXCps=
+
+Name: assets/www/71.js.map
+SHA1-Digest: ZEb4ICJRA95ECjfKorZrwMMq/hQ=
+
+Name: assets/www/svg/md-glasses.svg
+SHA1-Digest: 0Ow2zuNg4CldB0T6Ji4eQ2btsuA=
+
+Name: assets/www/179.dd8d3bad78ec64c79182.js
+SHA1-Digest: SbRcUWI4VLZ8HHuw+UPkybf+51E=
+
+Name: assets/www/93.js.map
+SHA1-Digest: 2MF9LiX6fM+ge9kwJsi6G3D9JpE=
+
+Name: assets/www/45.js
+SHA1-Digest: 6rNKJm7MX5tq5PcOj1d3QN4X9BQ=
+
+Name: assets/www/svg/logo-vk.svg
+SHA1-Digest: hZIM8HJ1yAiUWS+zWKp/5ENRmh8=
+
+Name: assets/www/svg/ios-person.svg
+SHA1-Digest: BGlDiCZbB26D4Wr7nFOGS0xpMRo=
+
+Name: assets/www/2.js
+SHA1-Digest: 0xojmZX1xnC58/gCgy1NTURfuhc=
+
+Name: assets/www/svg/ios-barcode.svg
+SHA1-Digest: oPonp2noI2obZjnGWLYoQF+Ee0s=
+
+Name: assets/www/79.js
+SHA1-Digest: qo0oMz1WeOUXTxir6Ef/7sAcVa4=
+
+Name: assets/www/svg/ios-arrow-round-forward.svg
+SHA1-Digest: 04CB8sIDD4WB53pvkybgBQFmrAM=
+
+Name: assets/www/77.aac75b84bdb24bc7d8c9.js
+SHA1-Digest: 3vYyUgdIog/PhtPBWeq1JlgVibw=
+
+Name: assets/www/svg/md-exit.svg
+SHA1-Digest: s9DCOnDqEdGxFBVvTzrfeR7vgaE=
+
+Name: assets/www/41.dc65cf62165ab6df4ef4.js
+SHA1-Digest: wVpF4Fh96xSxlUH/KTzGmTnKQKA=
+
+Name: assets/www/3rdpartylicenses.txt
+SHA1-Digest: ar7H8D1qHNPUbwLI8cUnOqhNDko=
+
+Name: assets/www/svg/ios-microphone.svg
+SHA1-Digest: POpxZAVRMhbTgnidLL4+kB+wV28=
+
+Name: assets/www/svg/ios-heart-half.svg
+SHA1-Digest: M0Uj5WpI3UKHkekY8qVmQ8NB1XI=
+
+Name: assets/www/svg/ios-qr-scanner.svg
+SHA1-Digest: zUaUldJRTcsO1ZCWggBqTg5JFO0=
+
+Name: assets/www/svg/md-arrow-dropup.svg
+SHA1-Digest: u5isFoYNFqIoqeU65sJeUyMjWwQ=
+
+Name: assets/www/svg/md-thumbs-down.svg
+SHA1-Digest: Ws0aoyAVIUJO6ry1MPENv7ZI5Cs=
+
+Name: assets/www/106.js
+SHA1-Digest: XkIJUoiRVKjCdVx1tV07hDBRhHs=
+
+Name: assets/www/165.js
+SHA1-Digest: RN+IcbGY747U3kjoDyGftiGeEo0=
+
+Name: assets/www/24.77ffe2157f1b9b72547d.js
+SHA1-Digest: SCjiAZ7k2V+6sSxChizaNA1gIGM=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: A7BC4etS9bFIzKKjf8xg4jH3oqM=
+
+Name: assets/www/plugins/cordova-plugin-local-notification/www/local-n
+ otification.js
+SHA1-Digest: cyVZFACG6w+OVT9N1qHwLhY8oPk=
+
+Name: assets/www/5.js.map
+SHA1-Digest: gA5Oy8CHcWNq7gS+y6JNQH8sM18=
+
+Name: assets/www/svg/ios-flash-off.svg
+SHA1-Digest: C1bbbHkNDh/0+9edQETMYJnJCxU=
+
+Name: assets/www/svg/md-cart.svg
+SHA1-Digest: jnouAnVn8/uLqM/q6tGjVsWigFE=
+
+Name: assets/www/svg/md-switch.svg
+SHA1-Digest: w9FkVGIfztIa1DJsjBY7LCEzoVc=
+
+Name: assets/www/svg/ios-navigate.svg
+SHA1-Digest: vIge6XsswtvAgryMAAmCjTM8K+M=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: jn7pJY5m/7ZmSKZqBU+B+7+Cjnw=
+
+Name: assets/www/104.12f4da2a10e3e9dd8cf2.js
+SHA1-Digest: LRRsbQi3CAbH4dX99c0+ciIsUTM=
+
+Name: assets/www/60.js.map
+SHA1-Digest: 8mSd8OuUJMSV2Z91sQI+B0tJMmk=
+
+Name: assets/www/26.js.map
+SHA1-Digest: 9EbT02DhvqYBvyJbLzF8mKjFeeo=
+
+Name: assets/www/35.bb7b9e4af9ad3eb7b3f8.js
+SHA1-Digest: c46ZHJPVn4DyoZMzWr2uns68bvQ=
+
+Name: assets/www/svg/md-build.svg
+SHA1-Digest: 8w8mex/vm7XHgTtxj8w74REU5So=
+
+Name: assets/www/65.js.map
+SHA1-Digest: 3xiDblT6DPmq4qVqcFCC29WbMNI=
+
+Name: assets/www/svg/logo-usd.svg
+SHA1-Digest: xiTu4xokGsDdYEzjTbnqiwQrgCU=
+
+Name: assets/www/consumption-ranges-consumption-ranges-module.js
+SHA1-Digest: A4QQrxl4cIe1cRZ2hdOPRrHRQoQ=
+
+Name: assets/www/11.js
+SHA1-Digest: P9GeLOmGsFQRh68eWHZoECfZW20=
+
+Name: assets/www/home-home-module.js
+SHA1-Digest: /GZAaJFbxjcMv0VzZ5ZYsZMOfbw=
+
+Name: assets/www/150.119c4efab3b90b9ded5b.js
+SHA1-Digest: cQ2SNiNS7Ow5eutepgKz+WMr/4Y=
+
+Name: assets/www/4.js
+SHA1-Digest: g0H2bVvN90xdVvvUjuJIxBNYAhk=
+
+Name: assets/www/svg/ios-list-box.svg
+SHA1-Digest: gnm9jWcJs9vV+mpTg/RPxSkm7I0=
+
+Name: assets/www/136.5a40cf05cbf375c6e0c2.js
+SHA1-Digest: ynPrZyiSDieQl4BYAIzGLLSNo8s=
+
+Name: assets/www/89.js
+SHA1-Digest: 16XnyVRhsun0Vk96QAVtDEuEpQM=
+
+Name: assets/www/svg/md-folder-open.svg
+SHA1-Digest: e6OzZgFq+FgPiLmUtdnUGC6QPWY=
+
+Name: assets/www/svg/md-baseball.svg
+SHA1-Digest: Y6qa3wqx9l58FGXZU+nrWRXf6z4=
+
+Name: assets/www/109.40436b00f6b5020de595.js
+SHA1-Digest: oUlG91Mk9KpogbC9C9ChsF/Z0Ao=
+
+Name: assets/www/svg/logo-chrome.svg
+SHA1-Digest: lUqUVCE8PTCVuq37S34RulCQ18k=
+
+Name: assets/www/svg/logo-slack.svg
+SHA1-Digest: VWCi6ueR8KOFYMG7dLy8Zy8OW78=
+
+Name: assets/www/43.js
+SHA1-Digest: Hr7yrG6MLNitBktKd93vf+4rsII=
+
+Name: assets/www/svg/md-person.svg
+SHA1-Digest: pZePgBJhbyovtR/r6ciH900zqTg=
+
+Name: assets/www/svg/logo-playstation.svg
+SHA1-Digest: by6awbhCt/MkeZCdegVAGqmDgM4=
+
+Name: assets/www/77.js
+SHA1-Digest: Jr2muYYSNb/zKOzQAVCPO8wF3vc=
+
+Name: assets/www/svg/md-information-circle.svg
+SHA1-Digest: jl+PIUmI6OYjSjMLlSY2sVmql3U=
+
+Name: assets/www/139.js.map
+SHA1-Digest: +1Z+dl+DDoP1lRbHQXwpoCfLOeg=
+
+Name: assets/www/plugins/cordova-plugin-local-notification/www/local-n
+ otification-core.js
+SHA1-Digest: 4k5ZzQslIyHPtcOkmMxtcjxwx0c=
+
+Name: assets/www/svg/md-mic-off.svg
+SHA1-Digest: zxkE1xW9BHMJnZmzUdgieYRsDCk=
+
+Name: res/drawable/icon_small.png
+SHA1-Digest: 7v/YhKRT7bZ7ftf8J3FlEz356BI=
+
+Name: assets/www/svg/md-disc.svg
+SHA1-Digest: EXxlRg5EGdZzUqAICsiVNS/XjzY=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: oaoADBCFHlrFBfPll5bEfYjimJc=
+
+Name: assets/www/svg/ios-close-circle.svg
+SHA1-Digest: Xk91HBElcQRd6dBXJ9sx337Gm4M=
+
+Name: assets/www/140.js.map
+SHA1-Digest: J2ZArZqChMXixtqQPhh1BoInyWQ=
+
+Name: assets/www/svg/md-eye-off.svg
+SHA1-Digest: Ne/bgQtFdG0g6VS45iy1MLccWow=
+
+Name: assets/www/svg/ios-umbrella.svg
+SHA1-Digest: hPiHd9fsiWtj/S/Imkyqv7gDD1I=
+
+Name: assets/www/90.js
+SHA1-Digest: qEleEZZshcx0bFIkSbglKoSrYuk=
+
+Name: assets/www/svg/md-american-football.svg
+SHA1-Digest: /tzI3rE3Qisbz5Ds2OdwHH9FGFo=
+
+Name: assets/www/svg/md-camera.svg
+SHA1-Digest: HEtlQMMUf1SioqaFryzV4lb9euQ=
+
+Name: assets/www/59.js.map
+SHA1-Digest: Q6orPOD1oAdqOg7Iu6fVFe+etbo=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: eXKOaC0QQplxGOfayJW3HFFxjqQ=
+
+Name: assets/www/svg/ios-fitness.svg
+SHA1-Digest: T1+ywNI1nvdxfAfphWkQZOH8r2E=
+
+Name: assets/www/svg/ios-radio-button-on.svg
+SHA1-Digest: as+6xU57eEntzalEFedwFjT3SAw=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+Name: assets/www/106.js.map
+SHA1-Digest: 6BRZn8RpRLFoOZi0TbmMBDvIQRI=
+
+Name: assets/www/108.js
+SHA1-Digest: Pkn35RwA4fAND7QOcNIXVi+KZpA=
+
+Name: assets/www/163.js
+SHA1-Digest: Yeio7iDhJvb4cSZcjsB0r8wZ0wM=
+
+Name: assets/www/svg/ios-thumbs-up.svg
+SHA1-Digest: smuz4l9+eGoziU1j9OnfhCUxg7c=
+
+Name: assets/www/svg/ios-contrast.svg
+SHA1-Digest: LDlnBfhtKL6AVcaaqydxwSlsWoQ=
+
+Name: assets/www/svg/logo-skype.svg
+SHA1-Digest: 6IK/yHNLuyqyMMHwEmjEjHgqYxE=
+
+Name: assets/www/svg/md-arrow-dropleft.svg
+SHA1-Digest: ymgYrXO/5oLjYJkeGnEt9FPICLY=
+
+Name: assets/www/20.7e76320141d1741c50cd.js
+SHA1-Digest: uIqE++4EcaHeNHr1Enlxn+yDHS0=
+
+Name: assets/www/54.js.map
+SHA1-Digest: vm5aXmv9TpwuyOiUklmzes7r/zE=
+
+Name: assets/www/svg/ios-star-half.svg
+SHA1-Digest: n8l4yRUweZr0BwI5XW0MnnzAxh0=
+
+Name: assets/www/158.12380c7a957ad90b3bd6.js
+SHA1-Digest: 7pJzTU05FyfeGAv20ir8icwR5yw=
+
+Name: assets/www/69.307f9c2c968da7095d66.js
+SHA1-Digest: O4nAU7JYIZLzkPhc7z1mKoQIRz8=
+
+Name: assets/www/55.js
+SHA1-Digest: T7ddfOUhO38mMMOZ9b+/Ur/FWQ0=
+
+Name: assets/www/svg/ios-book.svg
+SHA1-Digest: BEwzj5Rvue/BWXlrbV1NPKb2rIE=
+
+Name: assets/www/76.js.map
+SHA1-Digest: HYgCAw04DQzyZPq17r/QxzUlCdE=
+
+Name: assets/www/svg/md-arrow-round-up.svg
+SHA1-Digest: jiDsK38X4IPTfIEYUXMg/ueo3hI=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: assets/www/167.js.map
+SHA1-Digest: qmBoDxU5Bn1T5JQqU0q6NbsHT7A=
+
+Name: assets/www/svg/ios-journal.svg
+SHA1-Digest: 0lCsPv4ILrC28oWvXkVrZLBsnbc=
+
+Name: assets/www/svg/ios-arrow-up.svg
+SHA1-Digest: O7vRXuA3aSwmp4mrEKsmXw9F3iU=
+
+Name: assets/www/98.js.map
+SHA1-Digest: 63G3XjMA+M8oI7dmLZGXl+bR+nI=
+
+Name: assets/www/svg/ios-color-filter.svg
+SHA1-Digest: fQ4NCS6yWKZKDaiXlIC2ozpuIE0=
+
+Name: assets/www/svg/md-cloud-upload.svg
+SHA1-Digest: plssPwNhbQOICNytPT3DJsG77OE=
+
+Name: assets/www/svg/md-cash.svg
+SHA1-Digest: NqtEUEJ2v8+skJ+RfYkd9KWDCe8=
+
+Name: assets/www/141.js
+SHA1-Digest: nDtX5sZduMUezJzPTaEbH/bcFC0=
+
+Name: assets/www/svg/md-warning.svg
+SHA1-Digest: 308ZWSsFPcdLEleAiue0ErtXPgE=
+
+Name: assets/www/134.js.map
+SHA1-Digest: Itr43ugHuFx8+b+XdRYV6TFEswI=
+
+Name: assets/www/67.a5af202b24e10a117a10.js
+SHA1-Digest: Za/ZvGPSQeztbB9+Sb5/Puj5LYw=
+
+Name: assets/www/svg/md-flash.svg
+SHA1-Digest: ko4JqjYsedQOtpYXhB591Mnbys0=
+
+Name: assets/www/svg/ios-rose.svg
+SHA1-Digest: gHJMrljuo4cDoky+vjvjYZyGrYk=
+
+Name: assets/www/33.js
+SHA1-Digest: t0HsSaP0xIwKKrXXhXuUu8Mi1Yc=
+
+Name: assets/www/156.js.map
+SHA1-Digest: iXKTpIoW7mDvNA2V+zsJjqsz66A=
+
+Name: assets/www/10.js.map
+SHA1-Digest: au7VzSmJkPWMjHAewpQbjmy0oKg=
+
+Name: assets/www/svg/ios-globe.svg
+SHA1-Digest: Z7lIpZRrO03Cc92wU/w5O3FQx1Q=
+
+Name: assets/www/184.14114b476e0a0953a4d6.js
+SHA1-Digest: K7/Ql8SU8RW5W+0TJC9aYyRhGD8=
+
+Name: assets/www/145.js.map
+SHA1-Digest: wtCmYSs1Yy/c4F9lIR9sccdCkkg=
+
+Name: assets/www/112.js.map
+SHA1-Digest: 1Q4JS88/NCIhS10K+7Jf2rdrXoQ=
+
+Name: assets/www/svg/ios-volume-mute.svg
+SHA1-Digest: 68I4GuvZSjeCHGFsG/3UyBf86sE=
+
+Name: assets/www/svg/ios-git-network.svg
+SHA1-Digest: Ocn+fxBrVReFIG9V6vSHOWj5wuc=
+
+Name: assets/www/101.js.map
+SHA1-Digest: MfEOjHG2TgzsdokxBKSKoYDYCeQ=
+
+Name: assets/www/21.js.map
+SHA1-Digest: kflqdHqhOyJa/JhgxrDxMd7bLyA=
+
+Name: assets/www/main.f392b78126092d6858ed.js
+SHA1-Digest: 8Cg75+2pblHuix/vrCPn7357Sko=
+
+Name: assets/www/svg/ios-battery-charging.svg
+SHA1-Digest: FuVuoNHJrnc26sZBPTMUllyWoP0=
+
+Name: assets/www/svg/md-square-outline.svg
+SHA1-Digest: frcEzgpvb5mbjuhLMOLpJ/SuxcM=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: assets/www/123.js.map
+SHA1-Digest: SNL9f0/1uH0vmP0O6SAhVr37XAE=
+
+Name: assets/www/svg/ios-trending-down.svg
+SHA1-Digest: qs9eHSIcRzvsHiTZfhu32nAQzW8=
+
+Name: assets/www/svg/logo-hackernews.svg
+SHA1-Digest: pig0Myz6pfff7AfYcSi0SSc1XXY=
+
+Name: assets/www/32.js.map
+SHA1-Digest: pth9lJMmOuuUJDpaCWIku9l4rho=
+
+Name: assets/www/79.ca1d23db218f453894f5.js
+SHA1-Digest: VumuvqomO3/6hEtT0MksNVUTqfw=
+
+Name: classes.dex
+SHA1-Digest: BOeYKui+FkxHw0K7B5sh56bcGVY=
+
+Name: assets/www/14.5663134ad3700f3d6db4.js
+SHA1-Digest: tnjyIG+c/SFJs5EaOVQs3m7Bgmk=
+
+Name: assets/www/43.js.map
+SHA1-Digest: iiULenB7qI57YEVFdK9MKOk0cpk=
+
+Name: assets/www/svg/ios-skip-backward.svg
+SHA1-Digest: 5Mn+SSo2WhfVf1ohNWx0N5IOOQ8=
+
+Name: assets/www/svg/ios-tennisball.svg
+SHA1-Digest: 2BUeXFNR2HxuXbGzTfkVcpqvroc=
+
+Name: assets/www/162.js
+SHA1-Digest: vJzv3ehiYo2g5Px9vSY4n+rsRgs=
+
+Name: assets/www/44.js.map
+SHA1-Digest: lnGnVs4ZL1c9HWYUjA0Wcsmi0lY=
+
+Name: assets/www/90.50c2cc745062c55410b7.js
+SHA1-Digest: b0LuMu39TFOG09e4FxFwa17ed7U=
+
+Name: assets/www/svg/md-person-add.svg
+SHA1-Digest: lWHtpnMCWeIDTfWuZvaXS9v7pKA=
+
+Name: assets/www/166.8a653bab9918ad9a379c.js
+SHA1-Digest: OcILyPaMJ0Cs0e0f3HrRV9IAbF0=
+
+Name: assets/www/svg/logo-freebsd-devil.svg
+SHA1-Digest: +HJkiKa8rQv4HJHabXLThMMwJ+w=
+
+Name: assets/www/svg/ios-body.svg
+SHA1-Digest: 69uleUrHrJPVea/ls4kLNUPvKgo=
+
+Name: assets/www/svg/ios-fastforward.svg
+SHA1-Digest: 6YTW7EDb3+nOdC4i3p+MgaCl4zw=
+
+Name: assets/www/svg/ios-copy.svg
+SHA1-Digest: UQPwwuWsjCZpGM/zDKTMUS9zHy0=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA1-Digest: C1cCPh9yOzsq+D9UxNW0Rux110w=
+
+Name: assets/www/40.43293fdf7aa59806d39e.js
+SHA1-Digest: fUSDm9TOZqr3+nDrr/QSHUm/lOw=
+
+Name: assets/www/svg/md-bug.svg
+SHA1-Digest: vGuxMOjhK83q6GvUb6XsyELtfT4=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: assets/www/85.js.map
+SHA1-Digest: fz+9/cg7yJfFA4xSsnFA7vcopjU=
+
+Name: assets/www/svg/logo-github.svg
+SHA1-Digest: UNuGeXWOxKtbH7q5WkRf7gaM9Ig=
+
+Name: assets/www/svg/ios-code.svg
+SHA1-Digest: SVXjYn7U8wIQMvgjH40lYUOyVJw=
+
+Name: assets/www/24.js
+SHA1-Digest: o3JJ5KKLlAYU5m9HoDl54fhTgSE=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: f7p1rHw6kBqunadJYz5vUi7ZElM=
+
+Name: assets/www/160.js.map
+SHA1-Digest: ipYUJO4tvqWp4eZbgl3DTaUCdmM=
+
+Name: assets/www/svg/ios-leaf.svg
+SHA1-Digest: Fd6b+/mKaL3F6XPh0grwQLq1PiE=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/model/BeaconReg
+ ion.js
+SHA1-Digest: XhKa6LSmC2uLlnRYRtJmOlsCTd4=
+
+Name: assets/www/svg/md-checkmark-circle-outline.svg
+SHA1-Digest: LuaPnp9knzVS3BEgVYAmz7UxfFo=
+
+Name: assets/www/157.js.map
+SHA1-Digest: mVDb6p0NMBIxqE0FB1qQDLRxva4=
+
+Name: assets/www/115.js
+SHA1-Digest: t6Q8jQTtCaUmTjGUPcqhJPt4+0M=
+
+Name: assets/www/svg/md-female.svg
+SHA1-Digest: VEMdvvNIUTaRMuDlc+LPE9oFbik=
+
+Name: assets/www/svg/ios-square-outline.svg
+SHA1-Digest: tVTxAKLq27BmQ+hR69OnYkT7CU8=
+
+Name: assets/www/svg/md-open.svg
+SHA1-Digest: Qo+Ho1K7EX7IpEP9rTchgV+EYbk=
+
+Name: assets/www/28.6e69ecabc6d544618b62.js
+SHA1-Digest: JBgnFZ7RMQ1OnQ2x7dmOVeZOubE=
+
+Name: assets/www/svg/ios-basketball.svg
+SHA1-Digest: w7IuV7FwH1y8KRJV1TW5suqPomY=
+
+Name: assets/www/svg/ios-swap.svg
+SHA1-Digest: 7sLDQUuUMEy7thx/txcVrAszLRk=
+
+Name: assets/www/svg/md-photos.svg
+SHA1-Digest: tjwXYQXyOM8s1bjgjrh116DdAgE=
+
+Name: assets/www/svg/ios-return-right.svg
+SHA1-Digest: 0gU51xKVWRYQr/Vn0jgFIdHQpN4=
+
+Name: resources.arsc
+SHA1-Digest: hK9ZJbHSL/4Xakm8TgbFIfPSZBY=
+
+Name: assets/www/svg/md-alert.svg
+SHA1-Digest: TgpouHCCvD4FwOmpVAtYX3nTRT0=
+
+Name: assets/www/svg/md-eye.svg
+SHA1-Digest: 0MDPkQpX/HqsZhcAjvBwmkn6Jfo=
+
+Name: assets/www/svg/md-stopwatch.svg
+SHA1-Digest: ZXh7+/SCOcL4ibD91Ikokt7HBWY=
+
+Name: assets/www/177.0f452365364bf3292bad.js
+SHA1-Digest: MU5+aV+ZasHfWFUya0KxtIrCpc4=
+
+Name: assets/www/svg/ios-build.svg
+SHA1-Digest: 9bYhYyiA6kCQ6raJwbP4fbXbHTY=
+
+Name: assets/www/svg/md-tv.svg
+SHA1-Digest: PV+qfwqxR17TFv9I0vmHgt9UW5w=
+
+Name: assets/www/svg/md-aperture.svg
+SHA1-Digest: o4clnMBCAdt6LQYKb8QAObcC+pE=
+
+Name: assets/www/svg/md-thermometer.svg
+SHA1-Digest: Ugh0tXrnG/ChN3SCO8JKHSB+L2M=
+
+Name: assets/www/svg/ios-notifications-outline.svg
+SHA1-Digest: duKkXatDCffZzm1ZSgR5Q0brhjI=
+
+Name: assets/www/svg/ios-alert.svg
+SHA1-Digest: y60YQia3MyhyOi1hctvVtRD4SvI=
+
+Name: assets/www/svg/ios-albums.svg
+SHA1-Digest: y8TYRqqGYn7HDgnbKnNGGvNojeY=
+
+Name: assets/www/74.js.map
+SHA1-Digest: mlV8oIKe7AUJ+GZjIPljusBxjs4=
+
+Name: assets/www/139.js
+SHA1-Digest: wbHS0Yf7icji5HlrT82gz03r5UE=
+
+Name: assets/www/svg/md-notifications-off.svg
+SHA1-Digest: YNIH91FFq7SkLNGkIvkcp+ajH+o=
+
+Name: assets/www/svg/ios-pint.svg
+SHA1-Digest: AqIxGmPbLiI/Zp4JPxGS5pxUFvU=
+
+Name: assets/www/svg/logo-android.svg
+SHA1-Digest: 2RHqn2s+piKzH40bjGaegmXxCbU=
+
+Name: assets/www/svg/ios-headset.svg
+SHA1-Digest: kCkrmpieWAhjxCUhAIF7pg4+w7g=
+
+Name: assets/www/93.js
+SHA1-Digest: sbCiKE1wi2WEFMvrsk8maqAvco0=
+
+Name: assets/www/svg/ios-arrow-dropright-circle.svg
+SHA1-Digest: XmT4xRaOH7YGA9Yva3jGmYMuYUM=
+
+Name: assets/www/svg/md-tablet-landscape.svg
+SHA1-Digest: BBmHqEOdwppviml8m8sECgordA0=
+
+Name: assets/www/svg/md-recording.svg
+SHA1-Digest: PSx3/V8drEyu03jlX4r1Pbhf7z0=
+
+Name: assets/www/svg/ios-code-download.svg
+SHA1-Digest: aFJZUioYL1cp58Bn6gxGVWanEFo=
+
+Name: assets/www/167.f70f3126c46712bf348b.js
+SHA1-Digest: tGDegiTCBloVQS9eoeKaZw7Ivg4=
+
+Name: assets/www/svg/ios-tablet-portrait.svg
+SHA1-Digest: JGKLGNoFuw4/nfevGdRo87vPMuY=
+
+Name: assets/www/103.js
+SHA1-Digest: gYbe5QcLSaVfO2USg9IAavbkl9s=
+
+Name: assets/www/96.js.map
+SHA1-Digest: Lc+ISa0dj2mC7BRNbkrQnnWcYkU=
+
+Name: assets/www/117.3d2ee950b82c8fbbacd1.js
+SHA1-Digest: vBhadMJXK4CDQ7gmNenvGkZp/H0=
+
+Name: assets/www/svg/ios-pricetags.svg
+SHA1-Digest: AmhAV4oZdJDkwPTxLq8jTaENeI0=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: qtoCsdEoyaDYmAvH44tfVLv6hoY=
+
+Name: assets/www/svg/logo-game-controller-b.svg
+SHA1-Digest: R29z5ZNxK4dPDpMZ0qvrkF4PRtc=
+
+Name: assets/www/svg/md-man.svg
+SHA1-Digest: cKtN+6Y7Rk7pHDAy8i1ZxIunlII=
+
+Name: assets/www/48.js
+SHA1-Digest: x1/3CHCbAmbACaTJmiwNLA8uhgo=
+
+Name: assets/www/svg/ios-tv.svg
+SHA1-Digest: R/cB9LvfVuh/suTtZWg6f9rE2YE=
+
+Name: assets/www/svg/logo-yen.svg
+SHA1-Digest: hy/8NTfnNmRwBijuZVcKvQx9MwU=
+
+Name: assets/www/svg/ios-bookmark.svg
+SHA1-Digest: ou3SB3YByys4t3V959s6P5CCkhM=
+
+Name: assets/www/styles.js
+SHA1-Digest: ktR+8C4g1n3LgmqrMyal4lCWjk0=
+
+Name: assets/www/svg/ios-flask.svg
+SHA1-Digest: ETIAjlxSCMePMKq0/STeBVpzRkk=
+
+Name: assets/www/svg/md-information.svg
+SHA1-Digest: RDAHXoQLXKtaLKR05BUaKu+wMl0=
+
+Name: assets/www/svg/ios-cloud-upload.svg
+SHA1-Digest: BMJaNhCWoFfplWHDScGpAFDcYnc=
+
+Name: lib/x86_64/libsqlc-native-driver.so
+SHA1-Digest: aB0U1/S5zO45Y/BHB9NTvMSXlyw=
+
+Name: assets/www/71.js
+SHA1-Digest: Qd2racgXIjpjNKwyZ8Kb/yUbnxY=
+
+Name: assets/www/12.js
+SHA1-Digest: HHyK0ziLaYVLO1+Sn7RPX4V6q10=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: s//aNFtmt0V/NMqLSTR91rqHT70=
+
+Name: assets/www/13.3c9a9e1206ec2cf7ca8e.js
+SHA1-Digest: cjLfylonX4PfnBKaFHrZk4Uz4F4=
+
+Name: assets/www/4.e34d606292f4af1b0154.js
+SHA1-Digest: 7njuE/vtmLsu41v14T3t+yssMpY=
+
+Name: assets/www/svg/md-arrow-round-forward.svg
+SHA1-Digest: QOjBU8NmU/Wg2hDSXH9eN4pQSNY=
+
+Name: assets/www/assets/icon/grin-regular.svg
+SHA1-Digest: EOv55ZCa5f88stpEonWYIMN/Nf8=
+
+Name: assets/www/runtime.5784a919cbb33687b5d8.js
+SHA1-Digest: JP+NGh5DgJAyXNLoDvJlms7p9ao=
+
+Name: assets/www/svg/md-desktop.svg
+SHA1-Digest: /rfgq5G6TCNDDumCqBY95rPQutc=
+
+Name: assets/www/151.8a027601f578417b915c.js
+SHA1-Digest: Kfo628+QtJSDsGivKFRpjFdPe5I=
+
+Name: assets/www/consumption-ranges-consumption-ranges-module.js.map
+SHA1-Digest: bhT1qhBJr37G/TVgYTviUiAzM+M=
+
+Name: assets/www/121.c1120d024795c7776194.js
+SHA1-Digest: NpJHX3239KTo9W3vut8QTRPRNKU=
+
+Name: assets/www/45.4b8aa592301f5fb75e66.js
+SHA1-Digest: TXTofmKD6iVAnR8DSx77zE8Em2M=
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: hDT++3ZaOTp3t16AAFAibxtovj0=
+
+Name: assets/www/svg/logo-tumblr.svg
+SHA1-Digest: kgM0rZLnP5/qf/4pRPwk8X/4A/0=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/Regions.js
+SHA1-Digest: Nr2TNncRVtIh5Td+iLENe401RAQ=
+
+Name: assets/www/svg/ios-arrow-dropdown-circle.svg
+SHA1-Digest: bb4/hyLRg9ZrByXmTQt2Cajzxfw=
+
+Name: assets/www/svg/ios-disc.svg
+SHA1-Digest: V88RQfBMt7WGsggrDPRP6XokhrA=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: Rp1s22NBc6MfeZ0LA8DnlnU0+j4=
+
+Name: assets/www/140.js
+SHA1-Digest: sKyjLVDlTcgN4keGjA3ejhH8kfY=
+
+Name: assets/www/svg/ios-rocket.svg
+SHA1-Digest: 58YFMZABPlFNrJHS7l2lT7ZZ+TU=
+
+Name: assets/www/17.e2cca1bad469340e3ab6.js
+SHA1-Digest: 4rwFP+AJfH/DQQikTm4rgVdcZEQ=
+
+Name: assets/www/137.js
+SHA1-Digest: F+/EXRVNNiwoC/9qx2QatrfoXCM=
+
+Name: assets/www/svg/ios-egg.svg
+SHA1-Digest: 7SJc9B/dh7WDiimWb6bETwxNH90=
+
+Name: assets/www/25.js.map
+SHA1-Digest: eL4CG0CCIO88YjWuegtaOdc/Ms8=
+
+Name: assets/www/svg/md-color-fill.svg
+SHA1-Digest: +1syvAPKZ8ZyMX7KxJzBR9XUBhs=
+
+Name: assets/www/42.75255f822e21e75d20be.js
+SHA1-Digest: 7ygD1obs4Ycy23bP9nfZAZMNZsk=
+
+Name: assets/www/polyfills.js.map
+SHA1-Digest: HEzqQzYNrSNz+CZyPj7nyHIgGXg=
+
+Name: assets/www/svg/md-cafe.svg
+SHA1-Digest: qG+QLHCl2DI4cwiXXJgx8NOES2s=
+
+Name: assets/www/66.js.map
+SHA1-Digest: waH54pZnG2QMLGfPyMyxan+Z3LI=
+
+Name: assets/www/63.js.map
+SHA1-Digest: 51tHhgd89awHCeceY8HAS3KxaLE=
+
+Name: assets/www/43.2d66905457f7e635e0c3.js
+SHA1-Digest: TMPGDRijiM0JLATvcIZnegjPE4Q=
+
+Name: assets/www/172.js
+SHA1-Digest: ixWndvsQ0QM+l3K1k+FXxCfzRgI=
+
+Name: assets/www/svg/ios-arrow-dropleft-circle.svg
+SHA1-Digest: dIkc4ew8x0UDXs9lkrdRf9eLEqs=
+
+Name: assets/www/54.55c77b3e7388575c425d.js
+SHA1-Digest: 2XDz+RDO5ILhkLJ3STA5/v+rDps=
+
+Name: assets/www/svg/md-film.svg
+SHA1-Digest: xk12pJEj7v6C3+9eG1Q7NLCMhI4=
+
+Name: assets/www/svg/md-git-compare.svg
+SHA1-Digest: IEvsVOdgs9vJxOReOLDkMKe4v5M=
+
+Name: assets/www/105.js
+SHA1-Digest: /K49pRSyRlvRzesS+WqiNhTDbnc=
+
+Name: assets/www/81.js
+SHA1-Digest: SO4LvoL1QKFj0hm5NrgTnNVSveI=
+
+Name: assets/www/svg/md-book.svg
+SHA1-Digest: /HUmIu7+wA7pD1KcbksYPM/6WZo=
+
+Name: assets/www/171.js.map
+SHA1-Digest: LEQSH8pzkgxq1/tgXTYJhWNFUiU=
+
+Name: assets/www/svg/md-bookmark.svg
+SHA1-Digest: W42APg1pT1AFEI8j8BOAslnxZfg=
+
+Name: assets/www/135.js.map
+SHA1-Digest: 2CV3QPIK7gPQj3Ms/ZQgP7vr9Sc=
+
+Name: assets/www/svg/ios-arrow-dropup-circle.svg
+SHA1-Digest: e5sLJvx6L8/A3zfpfZQlx4qEnWg=
+
+Name: assets/www/svg/ios-bookmarks.svg
+SHA1-Digest: NBswwjF440MBzs87yNUzQH+zGFU=
+
+Name: assets/www/svg/md-star.svg
+SHA1-Digest: R8cwazpwP01bEcncVXkcddX/R0g=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: assets/www/svg/logo-vimeo.svg
+SHA1-Digest: 1h0Uf4/PPh35rDX5ui0t2jW5+8E=
+
+Name: assets/www/svg/md-laptop.svg
+SHA1-Digest: TB6tGTmz2cSxJxyMBk7YIDLo4VQ=
+
+Name: lib/x86/libsqlc-native-driver.so
+SHA1-Digest: t8X3QnyohPocLcJu12sG6jGlO6A=
+
+Name: assets/www/svg/md-thunderstorm.svg
+SHA1-Digest: qRoWHaaZ4v/K20DnY2vaD89KD/E=
+
+Name: assets/www/14.js
+SHA1-Digest: yGzSRrc9UVkxlpXJeM7n7jb4IB0=
+
+Name: assets/www/146.js.map
+SHA1-Digest: dYRgZMYQUMRZFAKt0ShUNJ2XmyE=
+
+Name: assets/www/svg/ios-school.svg
+SHA1-Digest: HXLv5k9moinpXndz5qpXzZF76iU=
+
+Name: assets/www/svg/logo-linkedin.svg
+SHA1-Digest: XVtOOE3YU9JtMBV8rY8ZLIRogDg=
+
+Name: assets/www/svg/logo-snapchat.svg
+SHA1-Digest: ezSN6nxwRhcKbyal6rNyyfCcrvQ=
+
+Name: assets/www/svg/md-flash-off.svg
+SHA1-Digest: woSECtbT6oHnoyuEsMb7kT7b9es=
+
+Name: assets/www/svg/ios-card.svg
+SHA1-Digest: yr/3BGjbL2yNYUlVj3NSGSTVQjo=
+
+Name: assets/www/svg/md-bicycle.svg
+SHA1-Digest: u39Ba9XzlqT64cB7o0XBUcm4qHs=
+
+Name: assets/www/107.e247eb8785c9dcdd6bc9.js
+SHA1-Digest: Ntc/yutPOscjI2DycvsnXAZELvg=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: b4jzzOj6FfoWBoe/FYsQTU8IrpY=
+
+Name: assets/www/22.js.map
+SHA1-Digest: U6PkHmFkk37ZaicHW4+qJfWr2ao=
+
+Name: assets/www/svg/ios-speedometer.svg
+SHA1-Digest: HOCwMfHoLFXHYkANQZ0sD9nCfAk=
+
+Name: assets/www/100.js.map
+SHA1-Digest: ZXY0nMNY4T+f77jHANKHuHthoXM=
+
+Name: assets/www/129.7c9a02095c23024ca144.js
+SHA1-Digest: ElYgJQEpmWq5/gd2OAAkQeazdMw=
+
+Name: assets/www/108.js.map
+SHA1-Digest: GuT0y0rDF3wqDwKPc2pvPU/QEUk=
+
+Name: assets/www/13.422d64fff36b15fc9c29.js
+SHA1-Digest: Gg50zPfH1AS+xTftLf66TsvNeuE=
+
+Name: assets/www/56.fca7eda4f3dfecec509f.js
+SHA1-Digest: zOQRM52G+k8xxdkfXo9DdYC3C5E=
+
+Name: assets/www/33.js.map
+SHA1-Digest: 3f/78BQ6/VMsUPf1HgQi1uhuPI0=
+
+Name: assets/www/46.js
+SHA1-Digest: kT0FUE59ZO9sx2ECANaERy92k6c=
+
+Name: assets/www/svg/md-cloud-outline.svg
+SHA1-Digest: mjIqEQEbyGmGNCborATZgWxqb1k=
+
+Name: assets/www/svg/ios-add-circle.svg
+SHA1-Digest: L+NW4Tw3rkB0Xt/8KY4GrvpEfxA=
+
+Name: assets/www/svg/md-arrow-dropright.svg
+SHA1-Digest: Sa2FBaE73OdfgUANHnsz8a3mF2I=
+
+Name: assets/www/36.js.map
+SHA1-Digest: R0DlS02WifKrZJd/vaRKstc47DY=
+
+Name: assets/www/svg/ios-clipboard.svg
+SHA1-Digest: EOeY1ZEd7pI/rcHtAM5Mbk0UE7o=
+
+Name: assets/www/svg/md-nuclear.svg
+SHA1-Digest: zaLz+ZoEfrUqDijQbDiHu7P+H6M=
+
+Name: assets/www/svg/ios-reorder.svg
+SHA1-Digest: YSghZCkR8jvy4MV09Dvae7aBEpE=
+
+Name: assets/www/5.80c5fd88ad444e729054.js
+SHA1-Digest: 7s77RQnh3qfsLkoL8sCCefg2Ghs=
+
+Name: assets/www/svg/ios-folder.svg
+SHA1-Digest: s5yhGwI4xlZnaoJbEXaJ0spjr9Y=
+
+Name: assets/www/svg/md-flask.svg
+SHA1-Digest: kwuvWMimKegP6ABWzvFMJcX4m10=
+
+Name: assets/www/55.js.map
+SHA1-Digest: TshC9ZNE3ww6KRpqMufj87t1Ojg=
+
+Name: assets/www/svg/ios-bed.svg
+SHA1-Digest: 75UDpXZVNbPc91erm03Iq754/pk=
+
+Name: assets/www/36.js
+SHA1-Digest: rDDBRG+MwC2wnjhyDhL+KAADJdc=
+
+Name: assets/www/svg/logo-game-controller-a.svg
+SHA1-Digest: Sew5OwNvUNj0hWIuznZiG4cQglc=
+
+Name: assets/www/14.js.map
+SHA1-Digest: mODye1fkQd+lDJO8xQOxXnFdWsY=
+
+Name: assets/www/svg/md-construct.svg
+SHA1-Digest: E1NYncd7ER7+3pO1wJoPjM59kCs=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: IDtrgEdk8Vt7MKIgWV+3aRaCcLE=
+
+Name: assets/www/150.js
+SHA1-Digest: 6RtyTstaxw/LBNfdsvPEsxadJic=
+
+Name: assets/www/svg/md-restaurant.svg
+SHA1-Digest: c7SsBPtSBzxvjpxRmDINGVr0fCI=
+
+Name: assets/www/77.js.map
+SHA1-Digest: Xojxhbr/ceCsIyHIGZ5lUZw6hb0=
+
+Name: assets/www/svg/ios-arrow-back.svg
+SHA1-Digest: TIlO4ISB0gnvHLBIkerbFO85LRk=
+
+Name: assets/www/svg/ios-options.svg
+SHA1-Digest: jmrCgHAL21uyC9LFWMby8Z3y2vQ=
+
+Name: assets/www/168.js.map
+SHA1-Digest: p3bF4nfdIUIynQPB1vha7DLbOKA=
+
+Name: assets/www/6.js
+SHA1-Digest: ADFYFKyI4p2Zqii0BQy6OduSf1g=
+
+Name: assets/www/149.js
+SHA1-Digest: RuiBAOCqlljX0RwS9A4ZZuWrEmk=
+
+Name: assets/www/plugins/cordova-plugin-ble-central/www/ble.js
+SHA1-Digest: AAhx9Dx6qVVVZ4HvRYc8MqlVTgc=
+
+Name: assets/www/settings-settings-module.js.map
+SHA1-Digest: PCFAvm/O+gddiGlWwmafdFPWnjA=
+
+Name: assets/www/svg/logo-python.svg
+SHA1-Digest: ZNrfWlit1E/K3NU7DJCpUre9qio=
+
+Name: assets/www/svg/ios-thunderstorm.svg
+SHA1-Digest: BFB1ZHFRS0ZYI4/PiuW/KVCfjjE=
+
+Name: assets/www/svg/ios-baseball.svg
+SHA1-Digest: IkeJIHyA9oZWUzJilARNjbFb8nE=
+
+Name: assets/www/svg/logo-model-s.svg
+SHA1-Digest: ZDpI8fD55ypbl7JOr2278w+4030=
+
+Name: assets/www/svg/logo-no-smoking.svg
+SHA1-Digest: qvgjfZS49Ho/HUSOtSniUqYqvYk=
+
+Name: assets/www/svg/md-easel.svg
+SHA1-Digest: SYpQsz0YXPtyTwEr6p4H1xStOmY=
+
+Name: assets/www/127.js.map
+SHA1-Digest: ipYZCgU4IjPvrih1p1wLkg5Ynxk=
+
+Name: assets/www/svg/ios-text.svg
+SHA1-Digest: 75lB0QzhT2KLnqpbJh74l4DSgVo=
+
+Name: assets/www/141.175a7a1c0e830f80ace9.js
+SHA1-Digest: O/Gp0AJA+zM034S5zhMppNw8c24=
+
+Name: assets/www/152.js.map
+SHA1-Digest: yrV63GQI0dNDDAOUGIVmRV7aB9k=
+
+Name: assets/www/138.js.map
+SHA1-Digest: rSiW1emsWUgsjEVm2HqCx3TSpPY=
+
+Name: assets/www/svg/md-help-circle-outline.svg
+SHA1-Digest: nmRIKe5qXrocnAYVlooDGFVnBJ0=
+
+Name: assets/www/svg/md-videocam.svg
+SHA1-Digest: m2zChckaTMclo/3U2GVK9wInhP4=
+
+Name: assets/www/141.js.map
+SHA1-Digest: nKB7ixR3cG3ed1YY8V88Uq1mJ7s=
+
+Name: assets/www/58.js
+SHA1-Digest: 72qm70mQLgw9VJ5Wsf8jGFfW9ME=
+
+Name: assets/www/svg/ios-checkmark-circle.svg
+SHA1-Digest: 6/6AVl7ckbeC+xFVzDHChTjInJg=
+
+Name: assets/www/svg/ios-remove-circle.svg
+SHA1-Digest: l+wwVuFGtndKt99ox1tWPqP9QZk=
+
+Name: assets/www/149.js.map
+SHA1-Digest: /C1yB30j9UbRyntdFUeHgKhy85w=
+
+Name: assets/www/svg/md-pause.svg
+SHA1-Digest: WNRpH975hyPSR0z5PILapDNKu3g=
+
+Name: assets/www/svg/md-return-right.svg
+SHA1-Digest: 5vkn+SiXaB5p8/PYo4SSDVu8QDQ=
+
+Name: assets/www/183.ec0c4165d9b607ac0752.js
+SHA1-Digest: WqlBGkVrb2yKb1kodanRWx9eKks=
+
+Name: assets/www/svg/ios-trending-up.svg
+SHA1-Digest: 63AD2T32QMm3Q8AIgDK8bU21e+Y=
+
+Name: assets/www/105.js.map
+SHA1-Digest: kpjOpOwClidEypmmUxrFVyF0MkQ=
+
+Name: assets/www/130.js.map
+SHA1-Digest: 2SvB57iRqVvqMZmp7qhT8N4BBm4=
+
+Name: assets/www/svg/ios-aperture.svg
+SHA1-Digest: xSKdiYgEyuicRVDg2r8pNfYyC9c=
+
+Name: lib/armeabi-v7a/libsqlc-native-driver.so
+SHA1-Digest: 8mdrKKjH0vLf6gUYxO0eTFl6aJY=
+
+Name: assets/www/svg/md-briefcase.svg
+SHA1-Digest: odv2v7HkEw4CzkdKMHIMQ0wW28A=
+
+Name: assets/www/svg/ios-radio-button-off.svg
+SHA1-Digest: c31mdN5S2NHR01e+XWTOLhjHe1o=
+
+Name: assets/www/svg/logo-euro.svg
+SHA1-Digest: ZuqzYHMAoRjyIftdOptPcbjmtcg=
+
+Name: assets/www/svg/md-qr-scanner.svg
+SHA1-Digest: ijJssOFVpENiqhwj+4dAlZ5a/24=
+
+Name: assets/www/svg/ios-sunny.svg
+SHA1-Digest: ZBatuky1OS8K3o8HMVooB6UbW8E=
+
+Name: assets/www/127.js
+SHA1-Digest: ho61IbszV6Fy867PpGswaRaTB8s=
+
+Name: assets/www/svg/md-remove.svg
+SHA1-Digest: 6lOIj63dJaSLmRQpbhIpYMXsI20=
+
+Name: assets/www/116.js.map
+SHA1-Digest: ZnVQYUAub2ccVUD5sbJxnQu+XXg=
+
+Name: assets/www/svg/md-analytics.svg
+SHA1-Digest: H/6I4NCXkOqfPr+a9rFy6w/e3HQ=
+
+Name: assets/www/svg/md-square.svg
+SHA1-Digest: o/seXXXrvsp+2L14QwX/FUOgnw8=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: assets/www/80.js.map
+SHA1-Digest: i8bQ8waN0IYxSNf/PaxoASrYl5k=
+
+Name: assets/www/svg/ios-people.svg
+SHA1-Digest: skGenvCqSsNJZKRfhfUneYL0eKo=
+
+Name: assets/www/svg/md-pie.svg
+SHA1-Digest: Q8pK3ufqADj4AwlGKJBOmFugMMk=
+
+Name: assets/www/76.c7d50f7fef0b7b2495e5.js
+SHA1-Digest: pQ5gA6962sEsm9QoIjR92skwVLg=
+
+Name: assets/www/svg/logo-youtube.svg
+SHA1-Digest: oUQfhqG1/s+24A1S8Tle1l6lII4=
+
+Name: assets/www/svg/md-search.svg
+SHA1-Digest: N8i0w6IfjLjd1Y9cSqI3HTIdPso=
+
+Name: assets/www/135.4c6a96a6b4f7e9681765.js
+SHA1-Digest: m/iexWNGZb26EDdhL0e5NGUAKQk=
+
+Name: assets/www/147.js
+SHA1-Digest: 0QeXrrCSqkvoN/zlhK4lM+CaAM8=
+
+Name: assets/www/svg/md-nutrition.svg
+SHA1-Digest: LmI8OyyA/t3F3oUGG3s0N4MHx/s=
+
+Name: assets/www/101.js
+SHA1-Digest: f8Sig0HgLYhUOBuiwvPaEeCItnk=
+
+Name: assets/www/38.js
+SHA1-Digest: aKtfLaJSxjjteDMJMMafr5zP5AY=
+
+Name: assets/www/180.6879abf646ac9d2ac798.js
+SHA1-Digest: CsdyB8ZOVjuGLd0gK8LhjDubFwQ=
+
+Name: assets/www/85.js
+SHA1-Digest: vqzArX4j4gbNpdVYdQaVDjpVcKA=
+
+Name: assets/www/svg/logo-bitcoin.svg
+SHA1-Digest: PA7r6vsGg3Ut8+Ex8Ht/JfU1+Gc=
+
+Name: assets/www/128.5bfcec065540e1747e31.js
+SHA1-Digest: lY167TNu0tG0wXMeiAhSwN5ehUw=
+
+Name: assets/www/8.js
+SHA1-Digest: vBLVV8ITxL0SmY3pV9TCKrRvEdk=
+
+Name: assets/www/svg/ios-paper.svg
+SHA1-Digest: c4Pn3E8hb4lj35xP8bAtwut4I48=
+
+Name: assets/www/svg/ios-unlock.svg
+SHA1-Digest: DiwIdW8Zeznf92VRSSOk8D/mgXM=
+
+Name: assets/www/119.js.map
+SHA1-Digest: gs1mJMrCI7Qym2N3mZFyBxCEgrk=
+
+Name: assets/www/svg/md-help-circle.svg
+SHA1-Digest: fVGGN4MhBcop2kjNjNsvogkwpXg=
+
+Name: assets/www/svg/ios-git-merge.svg
+SHA1-Digest: 0tlPbMM/IqhxFfw+/JuYUuVe4hQ=
+
+Name: assets/www/svg/md-chatbubbles.svg
+SHA1-Digest: EvvpSmUjjWj/OVQvJ8kxg0jWFF0=
+
+Name: assets/www/73.js
+SHA1-Digest: WV0hVfWJ4COMGvMOCfLD/aKHCSA=
+
+Name: assets/www/94.e2625e6ccd2ee2de7221.js
+SHA1-Digest: NgCvypps9O6V5XGFichJw8vXLvc=
+
+Name: assets/www/svg/ios-walk.svg
+SHA1-Digest: MzHPmhLbvaiKrtw1Y5v7fEwLpJI=
+
+Name: assets/www/79.js.map
+SHA1-Digest: Oj5xPjKT0D16mBCeimAWPxshiy4=
+
+Name: assets/www/svg/md-cloud-done.svg
+SHA1-Digest: coQ4YEWO5Nqg/VhIQuWbt//szLo=
+
+Name: assets/www/main.62853ac9e3affe474211.js
+SHA1-Digest: 4AotflW6xiYXa4j+QvnjPZ5+R0I=
+
+Name: assets/www/svg/md-shirt.svg
+SHA1-Digest: 0JSTl/WAbjn3CToy8pkN7qGMcEI=
+
+Name: assets/www/svg/md-barcode.svg
+SHA1-Digest: A1Tf+w8xHoD/anZmw2jzVyVWoL4=
+
+Name: assets/www/svg/ios-cloud-done.svg
+SHA1-Digest: V7cTagsFZ9W9pQF5Wd9Q+lilPLY=
+
+Name: assets/www/svg/md-heart.svg
+SHA1-Digest: vxWKl7aXYUUwhIIZk0tgLjFc1Uc=
+
+Name: assets/www/svg/ios-arrow-dropup.svg
+SHA1-Digest: 5ShB1m5/SQaYe4vCnEpCM1OSb0I=
+
+Name: assets/www/svg/ios-timer.svg
+SHA1-Digest: KY6a41Vxm+5Z5ULr8BhKFm2n55c=
+
+Name: assets/www/19.js.map
+SHA1-Digest: I+PJHqYU4ug09XmtCXJJq5Fs46Y=
+
+Name: assets/www/26.js
+SHA1-Digest: Npqo8cpYLYtXaHotsmup1QggNRc=
+
+Name: assets/www/51.js
+SHA1-Digest: 81FRizBIamgC56kHVn8ZXLCdTWY=
+
+Name: assets/www/plugins/cordova-open-native-settings/www/settings.js
+SHA1-Digest: Tew4qCHq/D5cn2KgkE41bzsLCRg=
+
+Name: assets/www/svg/ios-arrow-forward.svg
+SHA1-Digest: eFTY9T1SCts6ytETQ5qAGBSkhVs=
+
+Name: assets/www/svg/ios-flower.svg
+SHA1-Digest: 4RAcn52Dr8M6yBaOHe5M84WsyPI=
+
+Name: assets/www/svg/md-log-out.svg
+SHA1-Digest: jaZkxK1DRAPRAG5faFg1wbn4Rr8=
+
+Name: assets/www/52.js.map
+SHA1-Digest: wVt25R84ii5YjqheGvO+jgmjpzE=
+
+Name: assets/www/147.7d1d16c813b8716b5a12.js
+SHA1-Digest: ecMDa3C6RWWxASv5mWEPJYMNR1w=
+
+Name: assets/www/svg/ios-pause.svg
+SHA1-Digest: iL240YplODWSPbflACuTzZRbWwM=
+
+Name: assets/www/svg/ios-hammer.svg
+SHA1-Digest: RHgEXDAtzPaSrwfzxLhrgkSbEZU=
+
+Name: assets/www/svg/ios-backspace.svg
+SHA1-Digest: dZHQqN2jq824A4gFx9fxH4lPDLg=
+
+Name: assets/www/svg/ios-remove-circle-outline.svg
+SHA1-Digest: XiCGpO4+5my0WSDcyKnTQxXg3IM=
+
+Name: assets/www/svg/md-color-filter.svg
+SHA1-Digest: 9YeE7ZORZRG3kGJQnZAsdTInBPM=
+
+Name: assets/www/svg/md-flower.svg
+SHA1-Digest: nvbPjBwIc64Zgnzsz/6lmYt+E/g=
+
+Name: assets/www/78.a0de5bca18e9334ed60f.js
+SHA1-Digest: vua3Uk9D1arEUS+pf6y3NcM0dDk=
+
+Name: assets/www/svg/ios-home.svg
+SHA1-Digest: VTcmwXkkOc/8x5D922NCThxAnHk=
+
+Name: assets/www/svg/logo-twitter.svg
+SHA1-Digest: SRsFqu/WBqW8T7GsiF9CmzqxV2s=
+
+Name: assets/www/svg/logo-google.svg
+SHA1-Digest: VJCXvO3dTPNiCSy0GYXg3lmXnHQ=
+
+Name: assets/www/98.46b371d69e5c79fd5e1d.js
+SHA1-Digest: 6tE8LC69yQbPbVlupAPcLZWSQ68=
+
+Name: assets/www/svg/ios-thermometer.svg
+SHA1-Digest: WbNHlE24++06QlYGpADUJbGJ9pk=
+
+Name: assets/www/165.js.map
+SHA1-Digest: tNVKJshNhRtaXtbmSGbQNswgtU0=
+
+Name: assets/www/svg/md-arrow-back.svg
+SHA1-Digest: 4H4ZpVNNLkH99f7l04XTDrqmm5w=
+
+Name: assets/www/92.1280dddaeec4773604b0.js
+SHA1-Digest: wzzqwAgI32wPfUspJcsOiDt7OG4=
+
+Name: assets/www/runtime.93eaabef93ad60702e3e.js
+SHA1-Digest: PUWOlI+iPZ/Vy1KHUX6U5QG33gw=
+
+Name: assets/www/svg/md-sync.svg
+SHA1-Digest: 8v0nY1MiNuRsSJ2nID5eJxVrnNw=
+
+Name: assets/www/144.ff2be2bc21883c0eaa3e.js
+SHA1-Digest: o163Y3b3NoduhSyfcx1zNV1tG4Y=
+
+Name: assets/www/160.js
+SHA1-Digest: 2Tgq0lJB4BTdfgIh4QjZ+7kpdyE=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: 96R93o1yaeMOKbrBd7p+aoCwcrU=
+
+Name: assets/www/svg/md-time.svg
+SHA1-Digest: Hev6bnmXW2WCWvVoZ+MfUqx0LvY=
+
+Name: assets/www/154.js.map
+SHA1-Digest: VN1mlwfIJOdcHAgx61NiTifvnJQ=
+
+Name: assets/www/159.js
+SHA1-Digest: ARgmeWLqfmqLivOAMsuITI6x8tg=
+
+Name: assets/www/svg/ios-bus.svg
+SHA1-Digest: oGqGCtBSOBrQewDCY3dWQ/qgR/Q=
+
+Name: assets/www/svg/md-beaker.svg
+SHA1-Digest: f176DIxqZmvU06KSsh9OVe26QLo=
+
+Name: assets/www/44.085cd80dbf10486da35c.js
+SHA1-Digest: njhnesXGa2ubZPcjxBOrvEv+1+Q=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: O4A3gHFFbItmg6sPNWMPStPoiRY=
+
+Name: assets/www/96.05285627899ffcdc118e.js
+SHA1-Digest: e7hcKrmmAKueJgPM3USq0st+Pf8=
+
+Name: assets/www/svg/md-wallet.svg
+SHA1-Digest: N9XkJTB4T6gQIJDkZgj0WDr+HBk=
+
+Name: assets/www/143.js.map
+SHA1-Digest: uhTlk6R0Zfp76DHg71LQfFogOqA=
+
+Name: assets/www/svg/ios-heart.svg
+SHA1-Digest: N4dY+k9Jxqnz1u+rxl2rJZ0aM1Q=
+
+Name: assets/www/123.js
+SHA1-Digest: kmjreGkrwzaB+L0/Z7wOd5khSSc=
+
+Name: assets/www/30.js.map
+SHA1-Digest: jeBt3yXCVDLnyx+U2V6pqz2Qfeg=
+
+Name: assets/www/svg/ios-pizza.svg
+SHA1-Digest: ohRi7GybBceB1VjnUh6BpMarFN0=
+
+Name: assets/www/cordova.js.map
+SHA1-Digest: +RvuO/wCmohquhUCm+Oa3qaYpGU=
+
+Name: assets/www/main.5aab6dc6ec62318c28aa.js
+SHA1-Digest: 2A9e8i36qzhFkd/Ks/LHRofqqMY=
+
+Name: assets/www/41.js.map
+SHA1-Digest: i5gAZimewDl/rn96iVz8L+3T/d8=
+
+Name: assets/www/156.57bcf76163226b6eb829.js
+SHA1-Digest: lYQuIwECNZ6qqZLBf0x/g0nakN8=
+
+Name: assets/www/168.ba6630f870ff586d25db.js
+SHA1-Digest: 8aixQufDwKMNpfRCgVi0DJXbN+g=
+
+Name: assets/www/114.d66b06422d78e990a5d8.js
+SHA1-Digest: bLv+2hFiAhW6vVlfHIy6bMfLeR8=
+
+Name: assets/www/svg/md-fastforward.svg
+SHA1-Digest: 7cy2YBaUtx5WZwsSGXMAbpoybfM=
+
+Name: assets/www/svg/md-close-circle.svg
+SHA1-Digest: paR/DtADA70J30+1xN5QbqwIGCI=
+
+Name: assets/www/20.5131e7e384d02e8aca10.js
+SHA1-Digest: tr52CbLkURiHgCCWNLHk0otjzFk=
+
+Name: assets/www/svg/md-skip-forward.svg
+SHA1-Digest: uu0PJKHHYGIIEr1+TDRmPI8q8IA=
+
+Name: assets/www/28.js
+SHA1-Digest: esLIE6XRwwx1/Fp4n0hrqFYc4J4=
+
+Name: assets/www/85.9922f784d439720e9fab.js
+SHA1-Digest: YB6bs62oY5RP/VruDkVpuam8mCk=
+
+Name: assets/www/svg/md-wine.svg
+SHA1-Digest: qRJa2yvRyIhG/N4t5dl3vAomfBw=
+
+Name: assets/www/153.02e62e67809c1565b0cd.js
+SHA1-Digest: TelqUZ//HSp8SNXbhePUQvLgg3M=
+
+Name: assets/www/svg/md-battery-charging.svg
+SHA1-Digest: 7g0sH/PuGjyqzRkVWJ7PNOi2raQ=
+
+Name: assets/www/svg/md-journal.svg
+SHA1-Digest: 82+CYIJBVeIZV91UMDAr1umGKRc=
+
+Name: assets/www/95.js
+SHA1-Digest: xkfv/bkBntOTPMkKdykO9Fdyr2I=
+
+Name: assets/www/svg/ios-mic-off.svg
+SHA1-Digest: dlOnV5EicrwWngAL52Lfp0bPzuI=
+
+Name: assets/www/svg/ios-square.svg
+SHA1-Digest: nnNpSyZj5raMe39pbeXgAcYySRg=
+
+Name: assets/www/svg/md-reorder.svg
+SHA1-Digest: trpDdNfXopNMtx6bernqgoxZI0M=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: uHANT2NrpDRwwKbVen/Qexl9mdM=
+
+Name: assets/www/svg/ios-ribbon.svg
+SHA1-Digest: U3aBgfVOQ38Z0UWsDPdJIaM4zpQ=
+
+Name: assets/www/svg/md-medical.svg
+SHA1-Digest: AYNZ2JbwgkCISs6/zIM3EAvEnwA=
+
+Name: assets/www/126.10f8d99d25fec3d1ac9e.js
+SHA1-Digest: o2mxm48hFaB5BgTNAfot4KxVstQ=
+
+Name: assets/www/svg/md-star-half.svg
+SHA1-Digest: nyGsOhjQIvztsLxyjfAopnBUm/0=
+
+Name: assets/www/39.127c0d481bfae289be76.js
+SHA1-Digest: kVnhGfPAxRVpwTitFfJROSblVcY=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: uWCLDvwThlGPp1pHFKjSpIrHV3g=
+
+Name: assets/www/svg/md-outlet.svg
+SHA1-Digest: lyAfLE4EzbrevTR8JqVdYxvA7DQ=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: assets/www/80.c03aca3e295210ae4ea4.js
+SHA1-Digest: h1fiCSFixMeetgHyS+u25lkCT/k=
+
+Name: assets/www/81.d64376c686ab422328a0.js
+SHA1-Digest: LdzY9XeeI4N/YXCDzmG/hmHfZqc=
+
+Name: assets/www/svg/ios-pin.svg
+SHA1-Digest: eQWo7fP3zqI8xTlqQ/8BNn2KKJ8=
+
+Name: assets/www/svg/ios-power.svg
+SHA1-Digest: x2ZYOwQHpPzOswD4sW7rsr8c/no=
+
+Name: assets/www/svg/md-boat.svg
+SHA1-Digest: hCQPnIqm6sbBWUtfDM0Oa03bcqA=
+
+Name: assets/www/svg/logo-windows.svg
+SHA1-Digest: L18T2keMFen8su5NBOODsptyDjA=
+
+Name: assets/www/svg/md-happy.svg
+SHA1-Digest: EicRKg8dVdD3pRE35yRk+U4w4YQ=
+
+Name: assets/www/157.js
+SHA1-Digest: m8GHLnxuUBohfxf7ekG9yaFj2IQ=
+
+Name: assets/www/svg/ios-cart.svg
+SHA1-Digest: D2OooEx0oJysiZFR5nJ04gkYfrQ=
+
+Name: assets/www/svg/ios-git-compare.svg
+SHA1-Digest: YUUfe7cReStPmos249CvMRatkbU=
+
+Name: assets/www/143.0e99834c7bd957a40b87.js
+SHA1-Digest: IOevcqHIC5QvXtxfPctYl2NwKK8=
+
+Name: assets/www/svg/md-snow.svg
+SHA1-Digest: 5dZ3cmvgU6v1s8/hW6ZrsoeNvfw=
+
+Name: assets/www/13.16703193a9444e0adb40.js
+SHA1-Digest: 7DAuOEg8mMzSIop07nw7nkzOXaA=
+
+Name: assets/www/68.js.map
+SHA1-Digest: 5KT1cRStqESVlTlgDNQRGWMhKw4=
+
+Name: assets/www/svg/md-musical-notes.svg
+SHA1-Digest: cWdWJGJigC+jHxQBHtcHX2UN1z8=
+
+Name: assets/www/svg/ios-attach.svg
+SHA1-Digest: petZup7aMVqhv0oqa+dFhirQu7U=
+
+Name: assets/www/svg/md-bus.svg
+SHA1-Digest: mPSjZW9fza1tJfQpOdRCDE+jswc=
+
+Name: assets/www/57.js.map
+SHA1-Digest: y2Uo12n6DQQZgRggZvjvApwP4ms=
+
+Name: assets/www/svg/md-phone-landscape.svg
+SHA1-Digest: Zh0vBCwr6acnoxuAguZMpkW+OhU=
+
+Name: assets/www/svg/ios-easel.svg
+SHA1-Digest: Vd3xKMwBUrFkSS0CVheqz2oa6AA=
+
+Name: assets/www/svg/md-pizza.svg
+SHA1-Digest: bteyyKCBSVco1/79YP42TcydUSQ=
+
+Name: assets/www/svg/logo-buffer.svg
+SHA1-Digest: 4UNG7/iBMh3Gu2x+wxNvdD5Qe3o=
+
+Name: assets/www/svg/ios-apps.svg
+SHA1-Digest: bGDaQQCo7DgZm30DOrg5uYVz1CE=
+
+Name: assets/www/svg/md-color-palette.svg
+SHA1-Digest: wo6+58mANHdhWsKfTPANPyGNacQ=
+
+Name: assets/www/2.js.map
+SHA1-Digest: 121ponaWYyUAxyF+aaIC9RXE1L8=
+
+Name: assets/www/svg/ios-videocam.svg
+SHA1-Digest: vIXhbH4Jp8yVnErXEa8KNKKbpCY=
+
+Name: assets/www/125.js
+SHA1-Digest: Bp+NqcAoaLX4PJ4MqSmpDRqeJDY=
+
+Name: assets/www/62.5d10c9a1fdbdbe3038d7.js
+SHA1-Digest: 0lc6U497cXHx0hLEdAVRKoClhtY=
+
+Name: assets/www/svg/ios-checkbox.svg
+SHA1-Digest: /vctGipVHpKMUtLxYOKzqzv3ZK8=
+
+Name: assets/www/svg/md-stats.svg
+SHA1-Digest: IqEWWB+gWzwcmqcP07Kl/9J6K+w=
+
+Name: assets/www/main.js.map
+SHA1-Digest: OGayR5SAjpwfJ7gyf2QJ6zAhyY0=
+
+Name: assets/www/svg/ios-bluetooth.svg
+SHA1-Digest: czXANdQWWj712aW1JMPX7DdoU/4=
+
+Name: assets/www/svg/md-play.svg
+SHA1-Digest: qT70gBPz4YgQU+zptzc5+7ZH1Iw=
+
+Name: assets/www/170.js
+SHA1-Digest: VQNBFJEUEErx0AGqrWf48fFKuEA=
+
+Name: assets/www/16.js
+SHA1-Digest: T2zDt+8T1FI/w15JBwDQd83vIlo=
+
+Name: assets/www/135.js
+SHA1-Digest: bm4SewLg4bhqUgRNvD9OdKNJp0s=
+
+Name: assets/www/svg/logo-flickr.svg
+SHA1-Digest: 2pY1p3EMGPCurWy4WKebL+hok0o=
+
+Name: assets/www/83.193e9ea2adeb3107ea6d.js
+SHA1-Digest: 9UUzUMhsnSNYF1tQunBuDEyN/lk=
+
+Name: assets/www/svg/ios-male.svg
+SHA1-Digest: IzJst053Ad6pyCI6eLi9yuI+E+s=
+
+Name: assets/www/svg/logo-googleplus.svg
+SHA1-Digest: en2ARZiyQMYbs3skjtlILpYkN+k=
+
+Name: assets/www/83.js
+SHA1-Digest: jZCGyBR7phCOkm3dVRX4q9gYiFE=
+
+Name: assets/www/90.js.map
+SHA1-Digest: qg4ZEAF19DULEEfun/T3HmLfWUk=
+
+Name: assets/www/svg/md-paper.svg
+SHA1-Digest: 4Anag/3Zsg/+xMQpiMaBq4KykYo=
+
+Name: assets/www/svg/md-keypad.svg
+SHA1-Digest: zPkXYe51w1XUkaxAUempi6wjgSg=
+
+Name: assets/www/svg/ios-cube.svg
+SHA1-Digest: HTCIQRw9qFficreqi61H30H+C6A=
+
+Name: assets/www/113.js
+SHA1-Digest: XNJqzLZ74DkLA+3SixEI1ORYm9w=
+
+Name: assets/www/7.js.map
+SHA1-Digest: 5zV3nn1sq5AMZh4TTERKt4cGQi4=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: OphOtoc4r8TYRZ1JaDt/+jOwDCg=
+
+Name: assets/www/runtime.9d07265aec1aad5cd9eb.js
+SHA1-Digest: +iw3VnbyVl0EnXLAzVHulri+mRI=
+
+Name: assets/www/svg/ios-git-pull-request.svg
+SHA1-Digest: IuXcWaIeoJYUmRCzuwf1ksj7tww=
+
+Name: assets/www/svg/md-call.svg
+SHA1-Digest: zPbyGUuuHiqG5VtXiyu5g1mV5m4=
+
+Name: assets/www/styles.17dbab6a5fef10f55284.css
+SHA1-Digest: iWJ3tXywLO0VHCCNQNhTR98xdt0=
+
+Name: assets/www/main.2aa7fdd7c80bbd8dba5c.js
+SHA1-Digest: lkbVXTd8SmgYBS5tDmkoniWLFp8=
+
+Name: assets/www/svg/ios-information.svg
+SHA1-Digest: 5pWVDI2ROJm/IPuNSS4/shVHo1w=
+
+Name: assets/www/169.js
+SHA1-Digest: L3fnjTehcpd0aY9qNseeR05GtbQ=
+
+Name: assets/www/assets/icon/shower-solid.svg
+SHA1-Digest: TVOTdc2VRmujItW/oPt6/Vh9EAw=
+
+Name: assets/www/svg/ios-shirt.svg
+SHA1-Digest: LX57aNEfKy8mVk3cE636KRzhLgM=
+
+Name: assets/www/svg/md-redo.svg
+SHA1-Digest: aximJ8Lcd0jNWqehk0PR2sfZMG8=
+
+Name: assets/www/61.js
+SHA1-Digest: 92/nd5ErCrnCEf3VMZ6RIDMVKzE=
+
+Name: assets/www/svg/md-cut.svg
+SHA1-Digest: 9WR9PMrvZqxf1xnC34aMV8CZHYI=
+
+Name: assets/www/svg/md-hand.svg
+SHA1-Digest: uT3gL0Wcb3iObJ20lz87mUUvE1k=
+
+Name: assets/www/svg/logo-css3.svg
+SHA1-Digest: h3+nYB2leovz9yD69vzmQiMKCOk=
+
+Name: assets/www/76.js
+SHA1-Digest: eqmhAJzpK5R114s6/jKRkIsRo3A=
+
+Name: assets/www/svg/ios-appstore.svg
+SHA1-Digest: 7PfuYvqPHc20oBoQ5HDHOz8oBAM=
+
+Name: assets/www/110.js
+SHA1-Digest: bWZ36a6Xg5t75219XisbGzyJPs8=
+
+Name: assets/www/156.js
+SHA1-Digest: YZrKDm+rVAMyelN6dDzMruPVUoc=
+
+Name: assets/www/svg/md-move.svg
+SHA1-Digest: QLWxnJ5x7KsiCn1L2qk+fYw11pA=
+
+Name: assets/www/30.js
+SHA1-Digest: wploNC07BbczR4KrX6T8PyD7yR8=
+
+Name: assets/www/svg/ios-briefcase.svg
+SHA1-Digest: wsM35cvVhCOwvgxxcO8Q0A6B8Xw=
+
+Name: assets/www/svg/ios-contact.svg
+SHA1-Digest: zCeEyzsO/DiwIXdbtZp3Fo22Cys=
+
+Name: assets/www/svg/md-car.svg
+SHA1-Digest: wj2+9BTys/oOj5KjMCy9XV99QPA=
+
+Name: assets/www/svg/ios-checkmark-circle-outline.svg
+SHA1-Digest: lz4g7KadjsNxj2GUdtXHAZ8ljq8=
+
+Name: assets/www/svg/md-football.svg
+SHA1-Digest: zlet27zo9/GG4mZAsvRPqliPi0Q=
+
+Name: assets/www/83.js.map
+SHA1-Digest: Bczm9V7lWFBAYCvJRBdwd57NSbc=
+
+Name: assets/www/91.1a019dcdc03d5588aafb.js
+SHA1-Digest: aSjWZxUqf+K8kNHEU7mqIQ+D4uU=
+
+Name: assets/www/13.214e42aca524eefd50c0.js
+SHA1-Digest: lgsck2MU1NcTylfR/PNUcdI+SKU=
+
+Name: assets/www/svg/ios-play.svg
+SHA1-Digest: 1oC3talpBxYrOVUaBwe0uC/y6yI=
+
+Name: assets/www/svg/ios-hourglass.svg
+SHA1-Digest: m2CJLDKymBpTGNm43is+s3/H7x8=
+
+Name: assets/www/svg/ios-clock.svg
+SHA1-Digest: kHDb+WlWgk9t9hg6EqzR9uJVuc4=
+
+Name: assets/www/2.1d6f6348589def0d56aa.js
+SHA1-Digest: FQ+o6fobXm5zSF8X68w7bPlKYPs=
+
+Name: assets/www/109.js
+SHA1-Digest: H/vjPv0T/jAxq1ovmhBXoofNfQ8=
+
+Name: assets/www/29.js
+SHA1-Digest: 7ecZUxpugcdD7vfDAQedHzl+AJ4=
+
+Name: assets/www/svg/ios-desktop.svg
+SHA1-Digest: ESvjdfZudbh3QmG0yDY11cu28Ys=
+
+Name: assets/www/148.70abeef1238ee3efbbdf.js
+SHA1-Digest: MPEOr7Liklf3GkW3u4EFA64Gos8=
+
+Name: assets/www/155.js.map
+SHA1-Digest: sv3wQt18Odm0MtDY9YBQO+b+Sto=
+
+Name: assets/www/svg/ios-flag.svg
+SHA1-Digest: I1bZedOAhFAsDcpwUlnWTR82deQ=
+
+Name: assets/www/svg/ios-ice-cream.svg
+SHA1-Digest: 3eNP+NaOEjTsNQp1dVdZ4uN+0ac=
+
+Name: assets/www/runtime.js
+SHA1-Digest: GMCijgosc9vEmrjVpXvLYQuIj/Q=
+
+Name: assets/www/svg/md-headset.svg
+SHA1-Digest: 4e3uZOOhNkfHU8pzh7kTCf4/f7g=
+
+Name: assets/www/svg/ios-notifications.svg
+SHA1-Digest: u/HJh4nwJGIU6YQfUy+LuVf1Qck=
+
+Name: assets/www/svg/ios-create.svg
+SHA1-Digest: Ilm7YArhthwrReh6kOChxv3RERw=
+
+Name: assets/www/svg/md-bowtie.svg
+SHA1-Digest: sFoB8OTOfeX7NMJbGUCB6hlDXMw=
+
+Name: assets/www/svg/ios-medal.svg
+SHA1-Digest: RCEOD6DpSIVn9y7KPLmyZ8lw41w=
+
+Name: assets/www/svg/ios-business.svg
+SHA1-Digest: E1Wikdpw2rF/PmdJZIyprs0sM9g=
+
+Name: assets/www/21.52074cb16fda2be8374b.js
+SHA1-Digest: Rp6c3BdSlDUu8jd2KXeDMK03fGc=
+
+Name: assets/www/svg/md-pin.svg
+SHA1-Digest: 5C2fju5FVq+xXlalatCc6FIrS70=
+
+Name: assets/www/svg/ios-nuclear.svg
+SHA1-Digest: 92wkzFzKkvyQqayBwsz5Uaxu4Ok=
+
+Name: assets/www/88.js
+SHA1-Digest: 1rANjdmU+yMyb+n+E7/KR8TNuto=
+
+Name: assets/www/svg/md-repeat.svg
+SHA1-Digest: +HmvDEiaqtPmWmn4JJRagQ8OexQ=
+
+Name: assets/www/svg/md-school.svg
+SHA1-Digest: 1Tjt4aZsVgc1DaiVrD7WarrkL+c=
+
+Name: assets/www/42.js
+SHA1-Digest: iAn3kGDqMGZI58EgsOjczxULwDo=
+
+Name: assets/www/42.js.map
+SHA1-Digest: ffQiLc8PiVtL1UDCnWbG2MrVJzQ=
+
+Name: assets/www/53.js.map
+SHA1-Digest: yEzBvhq1nRl1p9XoGQAYge0LZ30=
+
+Name: assets/www/svg/md-thumbs-up.svg
+SHA1-Digest: bYuPbXpr5eolpn0A+Lsoe2hFWMA=
+
+Name: assets/www/38.b757ecdae06621ff69e6.js
+SHA1-Digest: dIBm1vUgBVanB4M6xAiPvboWfCA=
+
+Name: assets/www/138.ff56babecef8a1ed54a7.js
+SHA1-Digest: ZkZzcz8sZsLB+PrMmT6ZYPiEk7U=
+
+Name: assets/www/svg/md-trophy.svg
+SHA1-Digest: CDN+mLJ+j/pdVLLRZlccHBht8oY=
+
+Name: assets/www/57.5c12af57d1f05cbb8e7b.js
+SHA1-Digest: iTppswkWMzWwap5bGE4TV0gp+bc=
+
+Name: assets/www/svg/md-power.svg
+SHA1-Digest: 13IqBJV9kfG7SZx/i+uwBoIX95k=
+
+Name: assets/www/16.js.map
+SHA1-Digest: rns5AuKJoTaZVa6kZVv3c2a8S5Q=
+
+Name: res/xml/config.xml
+SHA1-Digest: MQ+mR9DQ/GUb4GeW689OjeeLKpM=
+
+Name: assets/www/svg/ios-heart-dislike.svg
+SHA1-Digest: XDsTKkEOfNV5TAMHbbDBt6vcjKQ=
+
+Name: assets/www/svg/ios-sync.svg
+SHA1-Digest: b5QqZhmvXdG3xK3MnyADhk3nqRQ=
+
+Name: assets/www/svg/ios-grid.svg
+SHA1-Digest: toRZve0UW8Qh/pGE3ltlzrUw+Tg=
+
+Name: assets/www/svg/ios-laptop.svg
+SHA1-Digest: DXlJ5Ug+vJQfpTuIx3bnOzeTDKs=
+
+Name: assets/www/svg/md-help.svg
+SHA1-Digest: rphp6xw5Xj4Fn/b0ALtGSjHzcHk=
+
+Name: assets/www/svg/ios-help-circle.svg
+SHA1-Digest: fAvHpChBWas3+TIp+fv44RCWmIE=
+
+Name: assets/www/svg/md-trash.svg
+SHA1-Digest: YhBsCDOoesPRZ3Foc39i0RVBxP4=
+
+Name: assets/www/166.js.map
+SHA1-Digest: 6qHWDEGxcev3NabhJxyYs4XLxfI=
+
+Name: assets/www/168.js
+SHA1-Digest: FiNAF4fi/c2LE+S5So3i7N5b9bU=
+
+Name: assets/www/svg/md-add-circle-outline.svg
+SHA1-Digest: jyANtlHQP55K5hKlQE1IVw9jBZw=
+
+Name: assets/www/main.js
+SHA1-Digest: Ggw5TTbF8raO0pgVqav1FPHZpNg=
+
+Name: assets/www/svg/ios-football.svg
+SHA1-Digest: CjvzT6fpDm5/ybh9o5TRQH/3j74=
+
+Name: assets/www/svg/ios-arrow-round-down.svg
+SHA1-Digest: dAxrvrlgyJS9lwJALFokTI/mUXQ=
+
+Name: assets/www/115.3fa4dc2a60f3e41eb2e7.js
+SHA1-Digest: Nh3OBZ71UsCI+8JvFpn+0xnlzbQ=
+
+Name: assets/www/37.d6790d60a9b6e1d4bd0e.js
+SHA1-Digest: bU7wNsZsElRwiVtVHhuHPgCMNPM=
+
+Name: assets/www/54.js
+SHA1-Digest: MJGyRsjJjgm5M9B352X+JkGImho=
+
+Name: assets/www/about-about-module.js
+SHA1-Digest: W6lKCylodkD/EBZBFxU0PH99stQ=
+
+Name: assets/www/129.js.map
+SHA1-Digest: b1V4BMQDQMdGpN/JgHx+Bwdy0AQ=
+
+Name: assets/www/svg/ios-quote.svg
+SHA1-Digest: HQucqgE6pvA5ofMg1X21dfhuV10=
+
+Name: assets/www/svg/md-volume-mute.svg
+SHA1-Digest: skw1Jc7Tp5idoZPBQoCxrhHPKn4=
+
+Name: assets/www/svg/md-appstore.svg
+SHA1-Digest: I8ilBAWEneN2DIJJtevqLTUYVHg=
+
+Name: assets/www/154.7f4b6e86fa57db77232c.js
+SHA1-Digest: qfOthWfMXikKRW/mxs05UD0zS9o=
+
+Name: assets/www/17.js
+SHA1-Digest: KvlZaL71URDBIu6MGN3k7TPFs3c=
+
+Name: assets/www/runtime.747d6dc116a9eb6ae233.js
+SHA1-Digest: F03oqyDcaKpd5QSAI+D0I85hqyk=
+
+Name: assets/www/134.js
+SHA1-Digest: eXE3Pgr8SJkUf7NY9QqeSp6LXCs=
+
+Name: assets/www/svg/ios-contract.svg
+SHA1-Digest: 966t0DX9Uad/cE36W3noxq0Wock=
+
+Name: assets/www/svg/md-flame.svg
+SHA1-Digest: gg7bmU/JfNjKykuekvRx1eCjTqA=
+
+Name: assets/www/155.c6322e178678e096d19f.js
+SHA1-Digest: lfkAiJQBSbUfaTaHM3rufoASs50=
+
+Name: assets/www/svg/logo-foursquare.svg
+SHA1-Digest: s17hHk32ziUzjIqZOrdrVhlDD0M=
+
+Name: assets/www/svg/md-arrow-down.svg
+SHA1-Digest: VQDHY5OR0L3PmAAXRWi/Gw/h8/A=
+
+Name: assets/www/107.js.map
+SHA1-Digest: xhULxW/uXMrJWdz1GipftkiLUy0=
+
+Name: assets/www/105.832932861fe2352e8cb2.js
+SHA1-Digest: UfNAYkeq9EK5Dk/P5/XScP9l+bI=
+
+Name: assets/www/svg/ios-boat.svg
+SHA1-Digest: I2iS5dPbNfandb4bzisNFEw+Ris=
+
+Name: assets/www/118.js.map
+SHA1-Digest: 1Omk640X0PwTBtRgqCtCk6rH5YU=
+
+Name: assets/www/svg/md-albums.svg
+SHA1-Digest: kA5ySOVu0f6xZEQrpdVx2RMK+c8=
+
+Name: assets/www/svg/ios-arrow-dropdown.svg
+SHA1-Digest: nJ9W9mAT1IQlnlHyjf+DMBQQ09Q=
+
+Name: assets/www/svg/md-medal.svg
+SHA1-Digest: rWaHoLtXEKFRmo3Qb2B5rQPa5qI=
+
+Name: assets/www/61.js.map
+SHA1-Digest: SO7QAqZOger3v7Cf8iCgYbmf+B4=
+
+Name: assets/www/73.3b49082385da3752c0af.js
+SHA1-Digest: QsgE4ybibVnKgmU53zcdD5UgNg4=
+
+Name: assets/www/174.05286551543ebf693326.js
+SHA1-Digest: gmlqs2S8THnBEObyX1iBILJz0TI=
+
+Name: assets/www/svg/md-partly-sunny.svg
+SHA1-Digest: Mh+kEbfmds8kX5HGbBKUdWAbxnc=
+
+Name: assets/www/64.js.map
+SHA1-Digest: 0MLEwjlG/GvY3Czlf0b9JpVFMjg=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/model/Region.js
+SHA1-Digest: MAXgahAyxqRdJt5D7qKIxk7Js8A=
+
+Name: assets/www/svg/md-musical-note.svg
+SHA1-Digest: KS7pOPUp7J6R8CDZc+Wm5tT1ZGw=
+
+Name: assets/www/svg/md-cloudy-night.svg
+SHA1-Digest: MwOOy6y64aWrnTSo0zeUmImA734=
+
+Name: assets/www/assets/shapes.svg
+SHA1-Digest: VBPpWtq8sstjmXAFH1Xg3bZKzlM=
+
+Name: assets/www/svg/ios-image.svg
+SHA1-Digest: vNZCRT84/zn3XgKyloUPUsuJ1lY=
+
+Name: assets/www/svg/md-checkbox.svg
+SHA1-Digest: OUAYyWrMvwa1Ueh1SVcMOBEf2PE=
+
+Name: assets/www/157.7f1a16b8a6708d2fa59f.js
+SHA1-Digest: 8RSpOiaLo4dwRshIAmuqzxJRXf8=
+
+Name: assets/www/166.js
+SHA1-Digest: HY4l0w6dWZlwc5ePccKUCN+Yhb8=
+
+Name: assets/www/svg/md-quote.svg
+SHA1-Digest: DNSipOB+ujDpprhfmfNVDubS5Kg=
+
+Name: assets/www/20.js
+SHA1-Digest: lY9KYEGUQuVXbLyeZWKqdTBLvjg=
+
+Name: assets/www/52.js
+SHA1-Digest: PoUkuhClp8q7Z3JIkdyNBtaxnx0=
+
+Name: assets/www/svg/ios-female.svg
+SHA1-Digest: UqO8DrVuQ14pG3aB7GdRr/4qFCI=
+
+Name: assets/www/98.js
+SHA1-Digest: j/0282uaZUkFi57EXNSH8E6jQQ0=
+
+Name: assets/www/svg/ios-musical-note.svg
+SHA1-Digest: i1Gp2m9xJDf6cyqgdLIB7KRSYn0=
+
+Name: assets/www/131.46bd785030619b3f5c51.js
+SHA1-Digest: NMKsFMs6jdmbzcsbFnnuP7X/sak=
+
+Name: assets/www/133.js.map
+SHA1-Digest: aD713JCD/nKpmGWCyyANwiDXlg8=
+
+Name: assets/www/19.js
+SHA1-Digest: jkrIDr8Ep6kfqXeclA83Z/34GoU=
+
+Name: assets/www/svg/logo-ionitron.svg
+SHA1-Digest: KGVlj4pi5ymg0ldm7KIAvsSqD0M=
+
+Name: assets/www/132.js
+SHA1-Digest: 1TFJ1h2tOC00ExhsEN1MRlnRLC8=
+
+Name: assets/www/144.js.map
+SHA1-Digest: 9tH8jZZmDiY3WzDufeexEJG7t3E=
+
+Name: assets/www/100.js
+SHA1-Digest: QSnNilFDVJTICN68Gg6pzkGJZTE=
+
+Name: assets/www/20.js.map
+SHA1-Digest: AUNQvyyIM9GO+8sGq6RLskGQR8Q=
+
+Name: assets/www/173.a6cba03977995a632056.js
+SHA1-Digest: NlisTtfCiA3D5pjLF6ZwrAWDD/A=
+
+Name: assets/www/102.js.map
+SHA1-Digest: eIDvt+0gVV0lrMRRnyGTqZlxRNU=
+
+Name: assets/www/assets/icon/tap.svg
+SHA1-Digest: LiuhDbS3N7Arq+WXUMhtOoxC8YQ=
+
+Name: assets/www/svg/md-alarm.svg
+SHA1-Digest: +Wohb6IBSRDafeGREN4whMBgcqU=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: n2E0W8B/grOxM2ORx/haAYOWIcA=
+
+Name: assets/www/svg/ios-call.svg
+SHA1-Digest: 5BzpatKov0RSgkDeL6lvBucc9RU=
+
+Name: assets/www/svg/ios-help-buoy.svg
+SHA1-Digest: kJbMGu5hgPVsEoMbpglT9mSYK/0=
+
+Name: assets/www/svg/ios-warning.svg
+SHA1-Digest: 105B4M1F22beLml18iJjCVpM3AU=
+
+Name: assets/www/31.js.map
+SHA1-Digest: MG1AMDJPPKYYbKjuJ+ALe752Ptk=
+
+Name: assets/www/svg/md-arrow-round-down.svg
+SHA1-Digest: CU9o3cYxZ9qo0zEFVUjE6cLDlaA=
+
+Name: assets/www/svg/md-infinite.svg
+SHA1-Digest: s1XnFEjwX9FYnQiwK9phm8erTFI=
+
+Name: assets/www/svg/ios-arrow-dropright.svg
+SHA1-Digest: V0NSyGSfr9KVJApyEYoR3qtslkI=
+
+Name: assets/www/svg/ios-phone-landscape.svg
+SHA1-Digest: iiHButTd+DOnZioPh2Ie5DI6tn8=
+
+Name: assets/www/svg/md-folder.svg
+SHA1-Digest: aEeCjM82gfuYF42TIaOnKQ/H120=
+
+Name: assets/www/50.js.map
+SHA1-Digest: GQqPr0d/qTzxyXglrDrbrgNwzas=
+
+Name: assets/www/svg/ios-medical.svg
+SHA1-Digest: raUQWgItVdTtpl4aMIqE1iFOGCc=
+
+Name: assets/www/svg/md-rose.svg
+SHA1-Digest: h3LXT0Za5TkN82CGMcLG+rJVrgY=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: assets/www/130.13f5748480712c81c0a3.js
+SHA1-Digest: KKFrvJvpBuAyTynvNtH/FIajY1k=
+
+Name: assets/www/72.js.map
+SHA1-Digest: xkf45qvu60jYJbKkkop6JcClZrs=
+
+Name: assets/www/svg/md-close-circle-outline.svg
+SHA1-Digest: Xg/ORBDZrBGq7U7fYkGhtDLgCLs=
+
+Name: assets/www/svg/ios-hand.svg
+SHA1-Digest: GlScBw8CmN/ZTq33MGi2owXAuaI=
+
+Name: assets/www/94.js.map
+SHA1-Digest: rKHj0tPi0ZUWc/NdFxRhtynHXqY=
+
+Name: assets/www/51.9b035b8b609f274a6bc4.js
+SHA1-Digest: 022Lyh7EhSUzjT/qr/OibVxHZ1A=
+
+Name: assets/www/svg/ios-thumbs-down.svg
+SHA1-Digest: Q/9MUOSFauHLfqEgznvMgNgUgSY=
+
+Name: assets/www/svg/ios-trash.svg
+SHA1-Digest: rkRR/UB1ZTO1ZuLmrCUNkC5EVcQ=
+
+Name: assets/www/64.js
+SHA1-Digest: gaTI+Vh7hLa8OUim9f+e7lHn1/8=
+
+Name: assets/www/svg/ios-cloud-circle.svg
+SHA1-Digest: 5PdrQEnmVkCSChtbA2MUlVQLuPQ=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: assets/www/devices-devices-module.js
+SHA1-Digest: pWpJhS4s+iNLDmHZaiT3FuFA4vI=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: gINxWPsqGnyL9wMmOt/xwKZOPLE=
+
+Name: assets/www/55.8318c36a463b676a56ae.js
+SHA1-Digest: Lnw7Qiefb7CFeDwjuFqluMKSa4E=
+
+Name: assets/www/122.js
+SHA1-Digest: RLAcHqJT0B875uOLhRN5TVXgaAU=
+
+Name: assets/www/99.js.map
+SHA1-Digest: YCAJeNj7RhLMfTwc7uWP2MYbjpc=
+
+Name: assets/www/svg/md-send.svg
+SHA1-Digest: pQjg4DJOo8eeGGh6tCRSASJgvmQ=
+
+Name: assets/www/31.49461d687ce8bd8423b4.js
+SHA1-Digest: DEWc5CppSWkv/TecSkgCzXx7grA=
+
+Name: assets/www/vendor.js.map
+SHA1-Digest: r4Hr5OqB5Xaog3qmEgb3JKelaSM=
+
+Name: assets/www/163.js.map
+SHA1-Digest: MmcdTmmHdiCJ4md4DM2qG4YRs3E=
+
+Name: assets/www/svg/ios-key.svg
+SHA1-Digest: ufLNm1ViX6AU49kXcBjeYVWbuGg=
+
+Name: assets/www/assets/js/sql.js
+SHA1-Digest: 4kmZtryr7zX2p3/WJEKPXANRfeQ=
+
+Name: assets/www/svg/ios-crop.svg
+SHA1-Digest: rURMnWKnvUbIupqlTE7M/ZJ1zaQ=
+
+Name: assets/www/svg/md-heart-half.svg
+SHA1-Digest: Qk7Fx2fWttcteH6HA7rPw+856Pk=
+
+Name: assets/www/main.43abdbed901af98d6643.js
+SHA1-Digest: RxXiNpfpcMp5QxeMAOEhZbsF9Z4=
+
+Name: assets/www/svg/ios-folder-open.svg
+SHA1-Digest: 59iWZhGDGF7kbmIS5oVV5jBkcwc=
+
+Name: assets/www/svg/ios-log-out.svg
+SHA1-Digest: MqfbNaROdgXNnie8PFN4OSFFwI8=
+
+Name: assets/www/118.ed852a455eb30fd96250.js
+SHA1-Digest: MSHQhIcyWBzK504nljaZj5GoisE=
+
+Name: assets/www/69.js.map
+SHA1-Digest: d8rRLxIo03d6d6PIq3AMxm4xfK4=
+
+Name: assets/www/svg/ios-git-branch.svg
+SHA1-Digest: s01Mg4otUFpk3gZyO3Imwo26MLo=
+
+Name: assets/www/86.js
+SHA1-Digest: U+azmoDfWG25IoCAPDLCHUvpvbg=
+
+Name: assets/www/svg/ios-jet.svg
+SHA1-Digest: 1hwUcBAjTKtL2EJRvr1Yv5Y85m0=
+
+Name: assets/www/svg/logo-yahoo.svg
+SHA1-Digest: cw9gVcO5f4G9DsYpm1rEkNuu7f0=
+
+Name: assets/www/58.js.map
+SHA1-Digest: FDIpv1/Y7etaaww17v5nMw/Nx8U=
+
+Name: assets/www/assets/icon/meh-regular.svg
+SHA1-Digest: GcOFypkrFja9czT/eH+5RWjtQNA=
+
+Name: assets/www/127.97ce94846313f3243f9f.js
+SHA1-Digest: Oj7a2zG1G2jJnEFt9qG+A2VYe9U=
+
+Name: assets/www/47.js.map
+SHA1-Digest: MF0qbF9zEleSasokhwBZRn0X/qE=
+
+Name: assets/www/144.js
+SHA1-Digest: y7LW2CAT9i71sj503rMnOE66XYY=
+
+Name: assets/www/26.1221acecfe500990d48d.js
+SHA1-Digest: RrH7+DAQDuzVFmWGDp4uJhE3kzM=
+
+Name: assets/www/svg/md-arrow-dropleft-circle.svg
+SHA1-Digest: ZeKqZGj2SBBHamrcgchEc5wi3Bc=
+
+Name: assets/www/1.js
+SHA1-Digest: mdRytD1jRJuBw2Uw0MPPgarsrmU=
+
+Name: assets/www/svg/ios-moon.svg
+SHA1-Digest: 8kB7JPsWrgqf4/WcABcVuJGX1vc=
+
+Name: assets/www/runtime.js.map
+SHA1-Digest: kSUaP2lfgpJSn/gQOS7mz4TMZg8=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: Ba5Xol8scI8rhyByEYs9HLm5x4A=
+
+Name: assets/www/svg/logo-tux.svg
+SHA1-Digest: 8ZiapB/HBFZUi7534tKDF5uZi08=
+
+Name: assets/www/svg/ios-bonfire.svg
+SHA1-Digest: 1/8lky0daVZLaJrJHWM/nTdcGQI=
+
+Name: assets/www/svg/md-bed.svg
+SHA1-Digest: ccDG9ZlZZE4v3uOCRCvxDz+L6aA=
+
+Name: assets/www/59.73d390d8785dcd298458.js
+SHA1-Digest: QGUgL1iGVaDNpQMz5ysjHyJH8fc=
+
+Name: assets/www/svg/md-save.svg
+SHA1-Digest: 1YRSuxF01J4++EIJ+Tw1dfImBiw=
+
+Name: assets/www/home-home-module.js.map
+SHA1-Digest: 4WgabgmZZgLSJnz3+8SiUsIvXLs=
+
+Name: assets/www/svg/md-pricetags.svg
+SHA1-Digest: canZv6lxiXcCr+X1clL08yifHLg=
+
+Name: res/drawable-land-xxxhdpi-v4/screen.png
+SHA1-Digest: mDVZivU7aj6qjx8G9mOy4DokNmk=
+
+Name: assets/www/91.js
+SHA1-Digest: u0qO+tD8RUr2HDK9IhpQBneHvLE=
+
+Name: assets/www/86.js.map
+SHA1-Digest: LkmIhm+RmN+85gzQx+WH+EeMUI4=
+
+Name: assets/www/88.js.map
+SHA1-Digest: Jpdeo3JozAbIoXG6souftAbEEeM=
+
+Name: assets/www/svg/md-rewind.svg
+SHA1-Digest: ADYak+elGJFBgnixOMS+4u/h1aE=
+
+Name: assets/www/49.4a607a0aea1b953d72f7.js
+SHA1-Digest: UzmWN0GMxMupKSV9KpNNen3gVN0=
+
+Name: assets/www/25.74b3ce3941cbce7f8eec.js
+SHA1-Digest: j3bCy3pRXKiJp0y8XlM+2QLZ1Gc=
+
+Name: assets/www/svg/md-funnel.svg
+SHA1-Digest: ISw1lFz0O5TJc39QKibsNcZuAU0=
+
+Name: assets/www/index.html
+SHA1-Digest: ahAOXjiPBlk8CxfTo43OFid9WxY=
+
+Name: assets/www/plugins/cordova-plugin-badge/www/badge.js
+SHA1-Digest: h//6K1YQS+L8Z1BtpfkSQVUFodI=
+
+Name: assets/www/53.2f8850c8993c7f795b00.js
+SHA1-Digest: g5c04dLVFHAD09JkyQSHBVwCJcQ=
+
+Name: assets/www/svg/ios-wine.svg
+SHA1-Digest: RxRHpkU3w/dgPjMRCwRWGw1aySA=
+
+Name: assets/www/svg/logo-facebook.svg
+SHA1-Digest: +LjE+go2GqxXqM1oMPO+TmhAYpo=
+
+Name: assets/www/13.0c24519bcdeaf8af6855.js
+SHA1-Digest: w26HOf2ctuTS4FshrTa74MY+Uhg=
+
+Name: assets/www/63.e1b947503e25b71787f1.js
+SHA1-Digest: nFzGCSs1HZkXak9SYyw77bFSiUw=
+
+Name: assets/www/svg/md-browsers.svg
+SHA1-Digest: dvUfrw6WMFuPoGOIfjbIQ15Cs/c=
+
+Name: assets/www/10.js
+SHA1-Digest: Fsz0SnPHUETL6zuj9+eia3Fwe3g=
+
+Name: assets/www/svg/ios-planet.svg
+SHA1-Digest: uW5dJXI1r2TATMM0QaCjUDLixLI=
+
+Name: assets/www/56.js
+SHA1-Digest: /UWdJd2rpo3BFLAaBaTEyRBFABY=
+
+Name: assets/www/svg/ios-help-circle-outline.svg
+SHA1-Digest: hxCMy9ZZW8z2Wm+EZZ5y8os++EY=
+
+Name: assets/www/svg/ios-glasses.svg
+SHA1-Digest: eegzXK6UWOflobOPHExKSNSP5fg=
+
+Name: assets/www/102.9f77a77f211d197bf12c.js
+SHA1-Digest: egtCZ9IfLNpatHFCflEL3wpQBs0=
+
+Name: assets/www/11.js.map
+SHA1-Digest: 3z/w8R264pWPAfJbgeUBRPRSLMQ=
+
+Name: assets/www/svg/md-sunny.svg
+SHA1-Digest: IIY85VWWa0cA5MAC7ZwYV9O+NZI=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: OReMqbaGUkxZGuHuv95hrg+ZURU=
+
+Name: assets/www/svg/ios-medkit.svg
+SHA1-Digest: 18jaxpg73CF1Ko16N1V7KoAiee8=
+
+Name: assets/www/122.js.map
+SHA1-Digest: aGhZ17d51RrfmHHjVeX/GZvj3lg=
+
+Name: assets/www/assets/icon/favicon.png
+SHA1-Digest: d5i44Oth1zdcJFr3i79ckWkyvxM=
+
+Name: assets/www/124.js.map
+SHA1-Digest: aCaFGEbH8CNRk3Se0Z2nCG9neuY=
+
+Name: assets/www/82.d89d0c1ca30b911e510c.js
+SHA1-Digest: BHvmKhOCNE2ljRsjhmCvbBXRJ1s=
+
+Name: assets/www/129.js
+SHA1-Digest: mKb9GHeigUtUYNHUo/5JLGNxz6w=
+
+Name: assets/www/svg/md-flashlight.svg
+SHA1-Digest: FPjs5V402ZbblrNcrXnmampLxIA=
+
+Name: assets/www/111.js.map
+SHA1-Digest: cK0FqZgnvuFADS8q3QJQx9cZP9c=
+
+Name: assets/www/113.js.map
+SHA1-Digest: 3/vTJTf+8Wx8zk1qRL6icuz53cY=
+
+Name: assets/www/3.js
+SHA1-Digest: LNz7JJE7hARXfP6S0ODng3i3tyo=
+
+Name: assets/www/142.js
+SHA1-Digest: 4/33FKTFhI+yJPGuRQfDGvRWn2g=
+
+Name: assets/www/svg/ios-paw.svg
+SHA1-Digest: rGY4BLqYsM5iikFoH9ONPuZ03Wo=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: Qnz8neK0uZJb0xHEinHDpHNHPdc=
+
+Name: assets/www/svg/ios-browsers.svg
+SHA1-Digest: WVpANrx4H2LETfWpgzAOYwmPWoI=
+
+Name: assets/www/svg/ios-car.svg
+SHA1-Digest: Qc3p2WG08TrmxkI6/tVa8QmVJnk=
+
+Name: assets/www/svg/ios-checkbox-outline.svg
+SHA1-Digest: l7cC7ZKfwMCSpjeL9fXf3R3vj9g=
+
+Name: assets/www/87.5d766659854b8a050eca.js
+SHA1-Digest: jbe98OhxtbIZsh3IycUpSZePM7U=
+
+Name: assets/www/svg/ios-lock.svg
+SHA1-Digest: SgY4KU2aGdtzJa1JqA07n/el6CU=
+
+Name: assets/www/svg/ios-trophy.svg
+SHA1-Digest: NHShumogk/F4bfeKngK/nFMnsCo=
+
+Name: assets/www/154.js
+SHA1-Digest: GBwA1MT4PYHFum3EFB9DfEUEwf0=
+
+Name: assets/www/svg/ios-add-circle-outline.svg
+SHA1-Digest: BPJc5ZO/OFJdVEaTI5FHYCNZpVA=
+
+Name: assets/www/common.js.map
+SHA1-Digest: UKTVKCgTQC9w7+WqYL3HpnERS7M=
+
+Name: assets/www/75.js.map
+SHA1-Digest: Z8bKiCXM36A0cgWTankYNyjeY6U=
+
+Name: assets/www/32.js
+SHA1-Digest: wZBK6pH81xB8ETU2Ej8UGFVdfyg=
+
+Name: assets/www/svg/ios-cloudy.svg
+SHA1-Digest: +ElMwF1LcyogbhalkVflqmfrR8s=
+
+Name: assets/www/assets/icon/smile-regular.svg
+SHA1-Digest: F21mtG1SePWiu77JxzxSc+bmV38=
+
+Name: assets/www/svg/md-trending-down.svg
+SHA1-Digest: inEdw7HzY2A8R13ZavYm4DVv5J8=
+
+Name: assets/www/46.a03e54e91288a2d351c7.js
+SHA1-Digest: wfo/KatSRWphccmqHFdFplIhnws=
+
+Name: assets/www/svg/ios-cloudy-night.svg
+SHA1-Digest: vSLpGgfMCYpzgVc93oRgIbt+DEs=
+
+Name: assets/www/svg/ios-play-circle.svg
+SHA1-Digest: OKGvt/c+H9Qo50VSsXtPXhfN8Os=
+
+Name: assets/www/68.js
+SHA1-Digest: v6XekxzDMp5fOOZycYJPVMHcMhM=
+
+Name: assets/www/svg/md-megaphone.svg
+SHA1-Digest: TyVHAy7ov4zFdpXeqlENV9a2jNY=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: S7UAR5WjVr48TEUhtrbabOw61r4=
+
+Name: assets/www/main.b3472247196ce44cd1ab.js
+SHA1-Digest: lLFWNruACwn+o3oV4l01nDaHPSM=
+
+Name: assets/www/svg/md-bookmarks.svg
+SHA1-Digest: GtS5bkZxpuvH/ZuTkv04ZFdpIXo=
+
+Name: assets/www/97.js.map
+SHA1-Digest: 96CRQMJ1V4MkQqnc1fWdWFbN1Fk=
+
+Name: assets/www/runtime.74882c8bf5f282c9a054.js
+SHA1-Digest: eTZvkinEzfvXn9vR0YkRguRjsAA=
+
+Name: assets/www/svg/md-volume-high.svg
+SHA1-Digest: 8nxgDnTtPwCSOizWn1aRJ4gEPEU=
+
+Name: assets/www/svg/md-podium.svg
+SHA1-Digest: PlQzucGjUZr+KjymsvE6e0AGzGE=
+
+Name: assets/www/svg/ios-archive.svg
+SHA1-Digest: LJKE/nKNxWQTjxWPTELVAnDkeFU=
+
+Name: assets/www/svg/md-speedometer.svg
+SHA1-Digest: g7GQZRJlrUHzUsBSbwe+BL02+2I=
+
+Name: assets/www/74.7fea2c7518b57f7ea7e2.js
+SHA1-Digest: lzHOF7pGz3U3BnrbNrQbrEQiqI8=
+
+Name: assets/www/161.js.map
+SHA1-Digest: 7PjMrZou7taoykPHH3r29mnu9G8=
+
+Name: assets/www/svg/md-skip-backward.svg
+SHA1-Digest: XzpaVFyRjxGy3qlZ/HAvfHsVAds=
+
+Name: assets/www/svg/ios-skip-forward.svg
+SHA1-Digest: pMXZ60HwXND0jJxi/7oyikGkih4=
+
+Name: assets/www/9.js.map
+SHA1-Digest: LDamsrGv7JIvRE8l9qdV5HKW5D0=
+
+Name: assets/www/svg/md-tennisball.svg
+SHA1-Digest: 4thf/Tp6xhkgYFAUC55fuUgYgrA=
+
+Name: lib/armeabi/libsqlc-native-driver.so
+SHA1-Digest: UlY7PobeIc+36t/Tp5D41G83NF4=
+
+Name: assets/www/150.js.map
+SHA1-Digest: HN4VxmVMHYGyJ78zZ0kQagL9tH4=
+
+Name: assets/www/3.693b50e52bfea7134843.js
+SHA1-Digest: kNX0U6VC0t2Y75EDxuIAfhXDxlA=
+
+Name: res/xml/localnotification_provider_paths.xml
+SHA1-Digest: N++N9Hinx08rOZD+Cg0qUHSfOr4=
+
+Name: assets/www/117.js
+SHA1-Digest: C/UTLA4q/BSd6HWDIaS31/PNLng=
+
+Name: assets/www/svg/ios-podium.svg
+SHA1-Digest: 1srmALpcGzl4UC10lvz0Zihxfv0=
+
+Name: assets/www/polyfills.92797b9557e832b800ca.js
+SHA1-Digest: uFE7nMSbiXuTUN0KArp8FJrqzPc=
+
+Name: assets/www/svg/md-cloud-circle.svg
+SHA1-Digest: YL2ODGdF3wbpJV44syUMUG+rO2o=
+
+Name: assets/www/svg/md-backspace.svg
+SHA1-Digest: MIfOIF3xZ296/34aJA8ZIBEzAs4=
+
+Name: assets/www/svg/md-business.svg
+SHA1-Digest: /LI6wRGinmUIMGTTLnn6FCScFyg=
+
+Name: assets/www/svg/md-cloudy.svg
+SHA1-Digest: bTrIe+L1R0jiITfn/H8i2HhFvu8=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/LocationManager
+ .js
+SHA1-Digest: fmnbNewtD24ZqW5Ca1dlGEEObVI=
+
+Name: assets/www/49.js.map
+SHA1-Digest: tKFNyKyOo73DeYxXyIbdgfvrbP0=
+
+Name: assets/www/38.js.map
+SHA1-Digest: xQbdyzbLl8K+aPTfHt4XVUL8iJ8=
+
+Name: assets/www/svg/md-timer.svg
+SHA1-Digest: IBSHYiQK0K61mU6dhnPHyJT6cdk=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: SKgQQbbRtw1tiZK+Ox3Z7pTJzOs=
+
+Name: assets/www/123.3cd2152466f7cfdf7345.js
+SHA1-Digest: nbDNMcuyFMKpVaQH9aNc6CukWdU=
+
+Name: assets/www/svg/ios-rewind.svg
+SHA1-Digest: ZKe7WNl+Ib6yC2A9HhSsQ5FhUU8=
+
+Name: assets/www/29.ee006f9a63b233d28970.js
+SHA1-Digest: nvJp28iiI6LVDZNcxwc0xayDFRo=
+
+Name: assets/www/132.2eafad738ccaf6483b89.js
+SHA1-Digest: vJ15IU5HHWiQ0qFkXEhRudJG+IU=
+
+Name: assets/www/plugins/cordova-plugin-nativestorage/www/LocalStorage
+ Handle.js
+SHA1-Digest: PZZqiz3Ikzq/qfHENPGoWnv6uUM=
+
+Name: assets/www/svg/md-volume-off.svg
+SHA1-Digest: voYHSZ0XvhxLOvXEy4j+6f6/F98=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: /mJ5H2qTR9Bi2LjUspEVgxlBB+g=
+
+Name: assets/www/svg/md-resize.svg
+SHA1-Digest: +PSy7SzECsWYZWH83j4+EtRBxM8=
+
+Name: assets/www/19.ed2e50e66d783b51dba6.js
+SHA1-Digest: SVPkGGu4l7fKnb1gx+VI5lX7PCE=
+
+Name: assets/www/27.js.map
+SHA1-Digest: oqzT4EEZgMIhMbXRDFzh/rJYme4=
+
+Name: assets/www/svg/ios-funnel.svg
+SHA1-Digest: 7h9jJcMJ6J4+agWQ99KO796j6IQ=
+
+Name: assets/www/34.js
+SHA1-Digest: lrRzMQag2QF4nMvNs6UypMrXZ5Y=
+
+Name: assets/www/svg/ios-woman.svg
+SHA1-Digest: dpcg94d1pUsLP6yj7JfwAT7uXY0=
+
+Name: assets/www/152.js
+SHA1-Digest: QBk7TFhZoKyABlAdTYOqQjqSSQI=
+
+Name: assets/www/svg/ios-repeat.svg
+SHA1-Digest: nl4ftIBGgorexiOPGbnSwJbr/VI=
+
+Name: assets/www/32.084de913a94b78dbe3c1.js
+SHA1-Digest: KZjrAOuR5nVVM2SrSvPwGsBp+GY=
+
+Name: assets/www/66.js
+SHA1-Digest: fBU2MicpzVor/YPpw263Z29mr9Y=
+
+Name: assets/www/svg/ios-volume-low.svg
+SHA1-Digest: fE2UoN/6zwUX78eJ8Z3KEkt4mrw=
+
+Name: assets/www/120.js
+SHA1-Digest: qQv/swfjRIv13A1M9TXGguzMQjo=
+
+Name: assets/www/svg/md-trending-up.svg
+SHA1-Digest: rpc009k2O3ZICV28h+Nig7FQ/Ro=
+
+Name: res/drawable-land-xxhdpi-v4/screen.png
+SHA1-Digest: /yCbZs6mRKocb+O+10swfNyT9qk=
+
+Name: assets/www/172.js.map
+SHA1-Digest: VwojBnIM4sc7SmkW+c2vm8dluzc=
+
+Name: assets/www/103.43b2e5bf9138679ab94e.js
+SHA1-Digest: f2huqCv4dIU2tUgvjsrbQIUYQt4=
+
+Name: assets/www/svg/md-copy.svg
+SHA1-Digest: rKbkSAyG7mrHDovf6KmV8P6wgVY=
+
+Name: assets/www/svg/md-medkit.svg
+SHA1-Digest: 19kBjFmPI0cDvKRmcJqx13maYb4=
+
+Name: assets/www/svg/ios-color-fill.svg
+SHA1-Digest: sXdC7pJSQCrhaictLj2DMh4lrMU=
+
+Name: assets/www/137.e7616f982c2a962061d7.js
+SHA1-Digest: rhsfN2otsPuh3fY4QZptc6MddI8=
+
+Name: assets/www/svg/ios-link.svg
+SHA1-Digest: 1IpW6WAsGFIKWZ+n7siEFIUS2vo=
+
+Name: assets/www/119.js
+SHA1-Digest: mO9mUASF9VRa8HzEOaqL0Zq1CJo=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: Ondg+iwBEBv577kHvrrjmvPMFIA=
+
+Name: assets/www/47.16dc64528d378e42d11b.js
+SHA1-Digest: 3T5l4xZXvqSTj89U3KVM3JdHBXs=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: assets/www/svg/md-planet.svg
+SHA1-Digest: wGfrrt4val57snRU7MFTquZeI00=
+
+Name: assets/www/svg/ios-mail.svg
+SHA1-Digest: B8nGhf54XR7Rf0oq2Fxq+Myaz9o=
+
+Name: assets/www/svg/md-git-pull-request.svg
+SHA1-Digest: Bc/U/ZPxk4lAUgDBoWJO/iet9N0=
+
+Name: assets/www/svg/ios-compass.svg
+SHA1-Digest: X+2FDLPabz+C1mrIrk5B/T25RAg=
+
+Name: assets/www/70.5a85c5ece56e66b8303f.js
+SHA1-Digest: kLX87Ixp0C/G9ove/AB2FA1SEFw=
+
+Name: assets/www/svg/md-key.svg
+SHA1-Digest: Aczdv6jI4q2laqSlo1OPyW2alQs=
+
+Name: assets/www/svg/ios-partly-sunny.svg
+SHA1-Digest: 9f1hO/qXw0LPzI1l3n6ymh3ra0E=
+
+Name: assets/www/svg/logo-npm.svg
+SHA1-Digest: U/ANy5gWj6SAJ0QSfotim28OImg=
+
+Name: assets/www/devices-devices-module.js.map
+SHA1-Digest: XwCe9mEzbZD1zZa1e7L1XlP2mFA=
+
+Name: assets/www/4.js.map
+SHA1-Digest: a7RJ2gQTLi+aoZFn0gjhYit2+P0=
+
+Name: assets/www/svg/ios-flame.svg
+SHA1-Digest: o7FhPq99NQb3iiQAdDB05Qa+8I4=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: V6mQmoWHM8zePodBFpwFtpZRZAI=
+
+Name: assets/www/svg/ios-beer.svg
+SHA1-Digest: eAPjl95glOG/jf0AjOC7p0WsnRE=
+
+Name: assets/www/svg/ios-magnet.svg
+SHA1-Digest: 2LRZp+7ebRYqTzanrEm5Fcm3rbs=
+
+Name: assets/www/svg/md-cellular.svg
+SHA1-Digest: eW3CdNE7YSK6wXjKGvL2C5I57hY=
+
+Name: assets/www/78.js
+SHA1-Digest: vOZf0RT+nKdGfoxmUzbTl9ZSXW8=
+
+Name: assets/www/svg/md-magnet.svg
+SHA1-Digest: Ckir+cVV1Ue5r0ofe9EUIIrRl+8=
+
+Name: assets/www/58.f22c19d136fe7d9fb1c3.js
+SHA1-Digest: /j4jjPXvUDwcFIJttBEKX9zcY7w=
+
+Name: assets/www/svg/md-microphone.svg
+SHA1-Digest: iUYk4OxwfTcE7YHZc7Cvi+ksNd4=
+
+Name: assets/www/runtime.c8dc8c6371303dd01e19.js
+SHA1-Digest: K9954XrnbKLleZmmuIxwijZYmn0=
+
+Name: assets/www/svg/md-refresh-circle.svg
+SHA1-Digest: qA4f2/KzDZ8qAdHqnRwYEPSOW70=
+
+Name: assets/www/svg/ios-menu.svg
+SHA1-Digest: fGRJml3NUB+19zVTkKNdkWHavDg=
+
+Name: assets/www/runtime.11d66342e4780190ede8.js
+SHA1-Digest: GLidhYFqaFJAle2LaU8irwxnLOw=
+
+Name: assets/www/svg/md-image.svg
+SHA1-Digest: sMUyCqf2kpb3P2RFOX0UlFhGVVk=
+
+Name: assets/www/svg/ios-subway.svg
+SHA1-Digest: DuMpzUniCeZWMjhfHiimqez1Jp0=
+
+Name: assets/www/main.1dd658057562f41d888e.js
+SHA1-Digest: EID3tp9fPpy6997puxFXdXPJeIQ=
+
+Name: assets/www/162.85768a2dabd720b6ab94.js
+SHA1-Digest: lK3bLXGNAuuGWZc2MqdsxyoajKA=
+
+Name: assets/www/svg/logo-polymer.svg
+SHA1-Digest: 4sPkTMcMFUKbbTHpz7GYrOwougo=
+
+Name: assets/www/svg/md-arrow-dropdown-circle.svg
+SHA1-Digest: GE3isxkiRvH480DpNN8R08XrdEQ=
+
+Name: assets/www/main.5f732b52bb1f3b974d1a.js
+SHA1-Digest: IEL+CO7zqx6Q9564jojud3pdYRY=
+
+Name: assets/www/svg/ios-share-alt.svg
+SHA1-Digest: sSZVEQqXPWUH0kfBtCkav1pAXpY=
+
+Name: assets/www/13.3a4acb8e0a233202f0f8.js
+SHA1-Digest: np/R3i1ICrI1PC83uYDmCxd8U4g=
+
+Name: assets/www/plugins/com.unarin.cordova.beacon/www/lib/q.min.js
+SHA1-Digest: obvrGqyyIeYYIRaQYh1rfcXk4wk=
+
+Name: assets/www/164.js
+SHA1-Digest: GOFexpbROMGTSMMHvIKubAboN/4=
+
+Name: assets/www/116.221bc2dbcc89652eed14.js
+SHA1-Digest: /vLMItvieWn94vFupsfbtfr8kVI=
+
+Name: assets/www/svg/md-paw.svg
+SHA1-Digest: QYOjtvTC/TS7GMtpdQKhm9MbEFY=
+
+Name: assets/www/107.js
+SHA1-Digest: KIy7eLg6vweCnjSSCkEnSrpHSB0=
+
+Name: assets/www/svg/md-arrow-round-back.svg
+SHA1-Digest: GYRpLqJRGChIf3oB4zT2vYqTSfU=
+
+Name: assets/www/22.js
+SHA1-Digest: 6vyzC1S8Dvm/YV8wfVfs11RTx20=
+
+Name: assets/www/main.690cf1f71270c8b02451.js
+SHA1-Digest: irtEtG2d1i6v9amwzE1N5SRaIcA=
+
+Name: assets/www/svg/md-calendar.svg
+SHA1-Digest: IPd0zIULAINjkDs7GvvLBpZbBM4=
+
+Name: assets/www/svg/ios-bicycle.svg
+SHA1-Digest: BcB8h8E+aOGkjbpdBz6M2JNOzuE=
+
+Name: assets/www/svg/ios-sad.svg
+SHA1-Digest: b9oYoK+wAk5qeBr5UzNl/lrq6kA=
+
+Name: assets/www/svg/md-chatboxes.svg
+SHA1-Digest: 1EO4breu2LV5/YUYoK4Rz+DQVbA=
+
+Name: assets/www/130.js
+SHA1-Digest: +qaP7Z2UK2+YQZRMif28fs+n+h8=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: ajc7MAtkYqs8VKwkitR4gBJWv08=
+
+Name: assets/www/polyfills.js
+SHA1-Digest: WP8hgXZACGtdRa8S3OmTlg7jaSI=
+
+Name: assets/www/plugins/cordova-plugin-ionic-keyboard/www/android/key
+ board.js
+SHA1-Digest: 20Xaz6//PlUpSDal/GKSxpK8FFI=
+
+Name: assets/www/8.037c51254c4b5abf4fbd.js
+SHA1-Digest: yvjRC23ppxVnNbkJe1tBUJsk/LQ=
+
+Name: assets/www/52.c3dd869562e3494aa64b.js
+SHA1-Digest: GSDmUlxQhS5VFdnvosoGQ+iaTeQ=
+
+Name: assets/www/svg/ios-code-working.svg
+SHA1-Digest: sws/MjAWrG7QeDNWvQNYG7JvFFc=
+
+Name: assets/www/169.324c57baa9e632d2817f.js
+SHA1-Digest: d+zQFbP+xhTATGNlF+B72kRd/p0=
+
+Name: assets/www/svg/ios-color-wand.svg
+SHA1-Digest: 398rwY5gw9UXmQM+j2YrXwxCMBI=
+
+Name: assets/www/svg/ios-list.svg
+SHA1-Digest: Qmvf+dhBNSRC89GaXKdO8C0PT7k=
+
+Name: assets/www/svg/ios-resize.svg
+SHA1-Digest: g1ESFAllzOV/M0jn67CzTun3fKU=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: E1PBHYE21M4Dchkk8NmtR+8dGE8=
+
+Name: assets/www/44.js
+SHA1-Digest: LAyQLoWBHWrHLWyDdRZVLlrAMeM=
+
+Name: assets/www/93.991effdf854ae8e4ef76.js
+SHA1-Digest: 40FIkrXVatwc+gev4NNDvAVQqIU=
+
+Name: assets/www/svg/md-subway.svg
+SHA1-Digest: 9gRTQtjNqmUm86yT5vV9G98ziHE=
+
+Name: assets/www/svg/ios-alarm.svg
+SHA1-Digest: 2hHIwf6MMEXBHHrOZDgsKz/ZzU8=
+
+Name: assets/www/svg/ios-today.svg
+SHA1-Digest: gPNyTiHussljQionb47r9D/DFww=
+
+Name: assets/www/svg/ios-finger-print.svg
+SHA1-Digest: 8bLNrVB8i0Y7MAW3YP3sXmJVKSs=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+

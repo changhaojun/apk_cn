@@ -1,0 +1,21 @@
+1.步骤：反编译 -》汉化修改 -》重新打包 -》添加签名 -》发布
+
+2.反编译：
+	语法：apktool d -f <apk path> -o <out path>
+	执行：apktool d -f C:\Users\finfosoft_pc\Desktop\apk\streamsave.apk -o C:\Users\finfosoft_pc\Desktop\apk\streamsave
+	生成 streamsave文件；
+
+3.对 streamsave文件夹中的文件进行汉化修改
+
+4.重新打包：apktool b C:\Users\finfosoft_pc\Desktop\apk\streamsave
+	对目标文件进行打包 生成的apk在 C:\Users\finfosoft_pc\Desktop\apk\streamsave\dist 文件夹里且没有签名
+
+4.添加签名：
+	1》生成keystore文件
+		cd C:\Users\finfosoft_pc\Desktop\apk\streamsave\dist 下执行：keytool -genkey -alias streamsave.keystore -keyalg RSA -validity 40000 -keystore streamsave.keystore
+	2》streamsave.apk添加签名
+		cd C:\Users\finfosoft_pc\Desktop\apk\streamsave\dist 下执行：jarsigner -verbose -keystore streamsave.keystore streamsave.apk streamsave.keystore
+	
+6.发布
+
+ps：streamsave.keystore 密钥库密码：streamsave
